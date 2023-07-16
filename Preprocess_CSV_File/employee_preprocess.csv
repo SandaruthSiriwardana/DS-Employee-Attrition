@@ -1,0 +1,998 @@
+Employee_No,Name,Gender,Year_of_Birth,Marital_Status,Religion_ID,Designation_ID,Employment_Category,Employment_Type,Join_year,Status,Inactive_year,Active_years,Active_months
+347,Myrl Bechtelar MD,Male,1965,Married,1,24,Staff,Permanant,1993,Active,,29,7
+348,Francis Mraz,Male,1973,Married,1,24,Staff,Permanant,1995,Active,,28,4
+349,Mr Emmet Blick Jr,Male,1974,Married,1,23,Staff,Permanant,1988,Resigned,2021.0,35,5
+351,Mr Nelson Braun PhD,Female,1974,Married,4,40,Staff,Permanant,1999,Resigned,2022.0,23,9
+352,Maximillian Hand,Male,1980,Married,1,7,Staff,Permanant,2001,Active,,22,5
+353,Zena Nicolas,Male,1962,Married,1,22,Staff,Permanant,2003,Inactive,2020.0,19,9
+354,Coralie Bernhard,Male,1969,Married,1,22,Staff,Permanant,2003,Active,,19,8
+355,Josh Roob,Male,1981,Married,1,126,Staff,Permanant,2004,Active,,19,4
+356,Ernest Upton,Female,1974,Single,1,23,Staff,Permanant,2005,Active,,18,1
+359,Sydney Oberbrunner,Male,1967,Married,1,41,Staff,Permanant,2006,Resigned,2022.0,17,0
+360,Angeline Yundt,Male,1976,Married,1,42,Management,Permanant,2006,Resigned,2021.0,16,10
+361,Prof Karlie Bauch III,Male,1986,Single,3,7,Staff,Permanant,2006,Active,,16,8
+363,Leonel Romaguera,Male,1975,Married,1,24,Staff,Permanant,2007,Resigned,2021.0,16,1
+365,Sidney Macejkovic,Male,1984,Married,1,43,Staff,Permanant,2007,Inactive,2020.0,15,8
+366,Prof Jerod Pfeffer,Male,1973,Married,1,44,Staff,Permanant,2008,Inactive,2020.0,14,7
+371,Ignatius Volkman DDS,Female,1963,Single,1,45,Management,Contarct Basis,2010,Resigned,2021.0,12,11
+372,Doyle Hettinger,Male,1981,Married,1,46,Staff,Contarct Basis,2010,Inactive,2020.0,12,11
+373,Izaiah Berge,Male,1990,Married,1,35,Staff,Contarct Basis,2010,Active,,12,8
+376,Prof Arden Jacobs III,Male,1961,Married,1,7,Staff,Contarct Basis,2011,Active,,12,3
+377,Shaylee Schroeder III,Male,1982,Single,2,48,Staff,Contarct Basis,2011,Active,,11,8
+378,Raymond Bogan,Male,1965,Married,1,33,Staff,Contarct Basis,2011,Inactive,2020.0,11,7
+379,Kayden Rice,Male,1991,Single,1,27,Staff,Contarct Basis,2012,Inactive,2020.0,11,5
+380,Macey Simonis,Male,1978,Married,1,24,Staff,Contarct Basis,2012,Active,,11,5
+381,Jayde Witting,Male,1982,Married,2,22,Staff,Contarct Basis,2012,Active,,11,3
+383,Sylvan Gislason,Male,1994,Married,1,24,Staff,Contarct Basis,2012,Active,,11,1
+384,Dr Kennedy Ryan MD,Male,1989,Married,1,8,Staff,Contarct Basis,2012,Active,,11,1
+385,Tillman Greenfelder,Male,1986,Married,1,49,Staff,Contarct Basis,2012,Active,,11,0
+388,Hanna Wyman,Male,1989,Married,1,22,Staff,Contarct Basis,2012,Inactive,2020.0,10,7
+389,Tessie Fadel,Male,1994,Married,1,24,Staff,Contarct Basis,2012,Active,,10,7
+391,Orval Hessel,Male,1960,Married,1,37,Staff,Contarct Basis,2013,Inactive,2019.0,10,5
+392,Katelin Thompson,Male,1989,Married,2,22,Staff,Contarct Basis,2013,Active,,10,5
+393,Savanna Spinka,Male,1965,Married,2,6,Staff,Contarct Basis,2013,Active,,10,3
+394,Carley Bogisich,Male,1993,Married,1,46,Staff,Contarct Basis,2013,Resigned,2021.0,10,0
+396,Jaquelin Block,Male,1993,Single,1,67,Staff,Contarct Basis,2013,Active,,9,10
+399,Garland Feeney,Male,1989,Married,3,27,Staff,Contarct Basis,2014,Resigned,2021.0,9,5
+400,Elody Waelchi,Male,1988,Single,3,27,Staff,Contarct Basis,2014,Active,,9,5
+401,Nola Grant,Male,1972,Married,1,7,Staff,Contarct Basis,2014,Active,,9,4
+402,Macie Kuvalis,Male,1995,Single,1,24,Staff,Contarct Basis,2014,Inactive,2020.0,9,4
+403,Julie Osinski,Male,1992,Married,1,43,Staff,Contarct Basis,2014,Inactive,2020.0,9,2
+404,Jody Stokes,Male,1987,Single,1,36,Staff,Contarct Basis,2014,Active,,9,1
+405,Scottie Ratke,Male,1987,Single,1,27,Staff,Contarct Basis,2014,Inactive,2019.0,9,1
+407,Braulio Pagac IV,Male,1990,Single,3,8,Staff,Contarct Basis,2014,Inactive,2020.0,8,9
+408,Jon Kuhn,Male,1990,Single,1,8,Staff,Contarct Basis,2014,Active,,8,9
+410,Ally Nikolaus,Male,1995,Single,1,52,Staff,Contarct Basis,2015,Resigned,2021.0,8,5
+411,Jesus Dietrich Sr,Male,1987,Married,1,24,Staff,Contarct Basis,2015,Active,,8,2
+413,Addie Purdy,Male,1997,Single,1,35,Staff,Contarct Basis,2015,Inactive,2021.0,8,2
+414,Noelia Roberts DDS,Male,1985,Single,3,54,Staff,Contarct Basis,2016,Inactive,2020.0,7,1
+415,Isabella Brakus,Male,1982,Married,4,36,Staff,Contarct Basis,2015,Resigned,2021.0,8,1
+416,Bo Schaefer I,Male,1986,Married,3,27,Staff,Contarct Basis,2015,Resigned,2021.0,8,1
+419,Ms Jany Lemke,Male,1988,Married,1,22,Staff,Contarct Basis,2015,Resigned,2021.0,7,10
+420,Dr Kieran Bradtke IV,Male,1995,Married,1,24,Staff,Contarct Basis,2015,Active,,7,10
+421,Marcos Kemmer MD,Male,1997,Single,1,24,Staff,Contarct Basis,2016,Resigned,2022.0,7,6
+422,Burley Willms,Female,1981,Married,1,8,Staff,Contarct Basis,2016,Resigned,2021.0,7,5
+423,Kaley Ankunding MD,Male,1987,Single,1,57,Staff,Contarct Basis,2016,Active,,7,2
+424,Rogers Conroy,Male,1988,Single,1,24,Staff,Contarct Basis,2016,Inactive,2021.0,7,1
+425,Alison Price V,Male,1965,Married,1,38,Staff,Contarct Basis,2016,Resigned,2022.0,6,11
+426,Thea Gaylord,Male,1962,Married,1,58,Staff,Contarct Basis,2020,Resigned,2021.0,3,0
+427,Laron Turcotte,Female,1980,Married,1,48,Staff,Contarct Basis,2016,Active,,6,9
+431,Miss Ashley Spinka IV,Male,1947,Married,1,62,Labour,Contarct Basis,2019,Active,,4,6
+433,Prof Damaris Kemmer DDS,Male,1993,Married,1,63,Staff,Contarct Basis,2016,Resigned,2022.0,6,8
+434,Corene Weber DDS,Male,1972,Married,1,64,Staff,Contarct Basis,2016,Resigned,2021.0,6,7
+435,Madisyn Raynor,Male,1988,Single,1,22,Staff,Contarct Basis,2016,Active,,6,7
+436,Prof Bridgette Gerlach DVM,Male,1981,Married,3,27,Staff,Contarct Basis,2016,Active,,6,7
+437,Prof Elian Roberts MD,Male,1991,Married,1,8,Staff,Contarct Basis,2016,Resigned,2021.0,6,6
+438,Giovanna Turner,Male,1991,Single,1,59,Staff,Contarct Basis,2017,Active,,6,5
+440,Ricky Hintz,Male,1981,Single,1,113,Staff,Contarct Basis,2017,Active,,6,6
+443,Jaunita Senger,Female,1989,Single,1,59,Staff,Contarct Basis,2017,Resigned,2021.0,6,5
+444,Buddy Kunze,Male,1966,Married,1,6,Staff,Contarct Basis,2017,Inactive,2020.0,6,4
+446,Lavon Stokes,Male,1955,Married,1,31,Labour,Contarct Basis,2019,Resigned,2021.0,4,6
+448,Prof Bridget Johnson II,Male,1966,Married,1,31,Labour,Contarct Basis,2019,Resigned,2020.0,4,6
+450,Mrs Eliza O'Kon I,Male,1976,Married,1,31,Labour,Contarct Basis,2020,Resigned,2021.0,2,7
+451,Ms Evelyn Farrell IV,Male,1985,Single,1,22,Management,Contarct Basis,2017,Inactive,2020.0,6,4
+453,Miss Amaya Bogisich III,Male,1961,Married,1,7,Staff,Contarct Basis,2017,Active,,6,3
+455,Madisyn Huel,Male,1987,Single,3,49,Staff,Contarct Basis,2017,Resigned,2022.0,6,3
+456,Aurelie Green,Male,1987,Married,1,30,Labour,Contarct Basis,2019,Inactive,2020.0,4,6
+457,Saul Marquardt,Male,1967,Married,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,1
+460,Monica Wunsch,Male,1955,Married,1,30,Labour,Contarct Basis,2020,Inactive,2020.0,3,4
+461,Miss Chelsie Heidenreich,Male,1987,Married,1,1,Labour,Contarct Basis,2019,Inactive,2021.0,4,6
+466,Geovanny Gaylord,Male,1976,Married,1,31,Labour,Contarct Basis,2019,Resigned,2022.0,4,6
+468,Johnny Price,Male,1987,Married,3,31,Labour,Contarct Basis,2019,Active,,4,6
+471,Miss Naomie Swaniawski II,Male,1992,Single,1,1,Labour,Contarct Basis,2021,Resigned,2022.0,2,3
+475,Mr Roel Monahan V,Male,1959,Married,1,31,Labour,Contarct Basis,2019,Resigned,2020.0,4,6
+476,Amanda Keebler,Male,1985,Married,2,22,Staff,Contarct Basis,2017,Resigned,2021.0,6,3
+478,Anne Abbott III,Female,1992,Married,1,70,Staff,Contarct Basis,2017,Inactive,2020.0,6,2
+480,Alfred Turner,Male,1989,Single,3,69,Staff,Contarct Basis,2017,Inactive,2020.0,6,0
+481,Lawrence Hane,Female,1984,Single,1,59,Staff,Contarct Basis,2017,Active,,6,1
+482,Kenyatta Rempel,Male,1986,Married,1,22,Staff,Contarct Basis,2017,Resigned,2021.0,6,0
+486,Prof Avery Volkman,Male,1987,Married,1,1,Labour,Contarct Basis,2021,Resigned,2022.0,2,5
+487,Kathleen Denesik,Male,1992,Married,1,124,Labour,Contarct Basis,2019,Active,,4,6
+490,Dr Nat Adams,Male,1995,Single,3,31,Labour,Contarct Basis,2019,Inactive,2020.0,4,6
+495,Ludwig Stamm,Male,1957,Married,1,29,Labour,Contarct Basis,2019,Active,,4,6
+496,Emie Conroy,Male,1988,Married,1,22,Staff,Contarct Basis,2017,Active,,6,0
+501,Piper Dooley,Male,1958,Married,1,31,Labour,Contarct Basis,2020,Resigned,2021.0,2,7
+504,Miss Greta Langosh,Male,1991,Married,3,31,Labour,Contarct Basis,2019,Resigned,2021.0,4,6
+505,Gertrude Leannon,Male,1959,Married,1,37,Staff,Contarct Basis,2017,Resigned,2021.0,5,10
+508,Dr Bernice Feil,Male,1987,Single,1,24,Staff,Contarct Basis,2017,Inactive,2020.0,5,10
+509,Ewell Koch,Female,1993,Married,3,8,Staff,Contarct Basis,2017,Inactive,2020.0,5,10
+510,Cristobal Wilkinson,Male,1991,Single,3,8,Staff,Contarct Basis,2017,Resigned,2022.0,5,10
+512,Mason Ryan,Male,1994,Single,1,24,Staff,Contarct Basis,2017,Inactive,2020.0,5,9
+514,Shea Terry MD,Female,1994,Single,1,65,Staff,Contarct Basis,2017,Resigned,2021.0,5,8
+515,Virginia Stokes,Male,1992,Single,1,8,Staff,Contarct Basis,2017,Inactive,2020.0,5,6
+516,Dante Ledner,Male,1990,Single,1,72,Staff,Contarct Basis,2018,Active,,5,5
+517,Mrs Betty West Sr,Female,1993,Single,1,8,Staff,Contarct Basis,2018,Active,,5,5
+520,Willa Kunde,Male,1987,Married,1,1,Labour,Contarct Basis,2019,Inactive,2020.0,4,6
+521,Dr Jaden Conn,Male,1987,Married,1,1,Labour,Contarct Basis,2019,Resigned,2020.0,4,6
+523,Hallie Parker,Female,1970,Married,1,31,Labour,Contarct Basis,2019,Active,,4,6
+532,Andreanne Roberts,Male,1994,Married,1,1,Labour,Contarct Basis,2019,Inactive,2020.0,4,6
+534,Tania Bode,Male,1997,Single,3,31,Labour,Contarct Basis,2019,Resigned,2022.0,4,6
+536,Prof Paris Homenick,Male,1997,Single,2,69,Staff,Contarct Basis,2018,Inactive,2021.0,5,4
+537,Hope Ward,Male,1991,Single,1,107,Staff,Contarct Basis,2018,Active,,5,4
+538,Mr Bartholome Hintz,Male,1994,Single,2,27,Staff,Contarct Basis,2018,Inactive,2020.0,5,2
+539,Mr Archibald Abshire,Male,1993,Single,1,43,Staff,Contarct Basis,2018,Inactive,2020.0,5,2
+540,Leilani Nikolaus,Female,1995,Single,1,88,Staff,Contarct Basis,2019,Inactive,2020.0,3,9
+541,Carmen Dickinson,Female,1994,Single,1,111,Staff,Contarct Basis,2019,Inactive,2020.0,3,8
+545,Brenden Hartmann IV,Male,1990,Single,1,89,Staff,Contarct Basis,2019,Active,,4,2
+546,Terrence Lehner,Male,1978,Married,1,97,Management,Contarct Basis,2019,Inactive,2020.0,4,1
+549,Darius Zulauf,Male,2001,Single,1,101,Staff,Contarct Basis,2020,Resigned,2021.0,2,7
+550,Dr Adrien Beahan,Male,1973,Married,1,24,Staff,Contarct Basis,2019,Resigned,2022.0,3,10
+551,Ilene Goyette,Female,1984,Single,1,175,Staff,Contarct Basis,2019,Active,,3,9
+553,Odessa Crist Sr,Male,1996,Single,1,17,Staff,Contarct Basis,2019,Inactive,2020.0,3,8
+554,Prof Jacynthe Kulas,Male,1992,Single,1,78,Staff,Contarct Basis,2018,Inactive,2020.0,4,11
+556,Mr Scottie Streich,Male,1987,Married,1,193,Management,Contarct Basis,2018,Resigned,2022.0,4,8
+557,Myles Monahan MD,Male,1972,Married,1,127,Management,Contarct Basis,2018,Active,,4,8
+558,Miss Clotilde Braun III,Male,1987,Married,1,110,Management,Contarct Basis,2018,Active,,4,8
+560,Quinn Hansen,Male,1995,Single,1,79,Staff,Contarct Basis,2018,Inactive,2020.0,4,6
+561,Audrey Tromp,Female,1992,Married,1,84,Staff,Contarct Basis,2019,Inactive,2020.0,4,5
+562,Javon Zulauf,Male,1998,Single,1,88,Staff,Contarct Basis,2019,Resigned,2020.0,4,4
+563,Miss Alta Sipes MD,Male,1997,Single,1,88,Staff,Contarct Basis,2019,Inactive,2020.0,4,4
+565,Dr Lynn Gleason III,Male,1995,Single,1,113,Staff,Contarct Basis,2019,Resigned,2021.0,4,2
+569,Alek Moore,Male,1966,Married,1,45,Management,Contarct Basis,2019,Resigned,2021.0,4,1
+570,Dr Donny Ryan III,Male,1985,Single,4,98,Staff,Contarct Basis,2019,Inactive,2020.0,4,1
+572,Dr Dennis Bosco,Female,1990,Married,1,84,Staff,Contarct Basis,2019,Resigned,2021.0,3,11
+573,Manuel Bechtelar,Male,1992,Single,1,24,Staff,Contarct Basis,2019,Resigned,2021.0,3,10
+574,Dr Torey Gibson,Female,1983,Married,1,104,Staff,Contarct Basis,2019,Inactive,2020.0,3,8
+576,Maiya Bernier,Female,1999,Single,1,143,Staff,Contarct Basis,2020,Inactive,2020.0,2,11
+582,Miss Burdette Kunze DDS,Male,1965,Married,1,22,Staff,Permanant,1999,Active,,24,0
+583,Willa Bruen Jr,Male,1981,Married,1,7,Staff,Permanant,2003,Active,,19,9
+584,Prof Johanna Bednar,Male,1988,Married,1,36,Staff,Contarct Basis,2019,Active,,3,11
+585,Mr Erin Marquardt II,Male,1990,Married,1,8,Staff,Contarct Basis,2019,Inactive,2020.0,3,11
+586,Mariam Carter DVM,Male,1987,Married,1,22,Staff,Contarct Basis,2019,Inactive,2020.0,3,11
+589,Alison Graham,Male,1961,Married,1,36,Staff,Contarct Basis,2019,Inactive,2020.0,3,11
+590,Haleigh McCullough,Male,1987,Single,2,22,Staff,Contarct Basis,2019,Inactive,2019.0,3,11
+591,Kelsi Effertz,Male,1995,Single,1,22,Staff,Contarct Basis,2019,Inactive,2019.0,3,11
+592,Prof Cleta Hackett Jr,Male,1991,Single,1,22,Staff,Contarct Basis,2019,Inactive,2020.0,3,11
+594,Sophie Turner,Male,1992,Single,1,22,Staff,Contarct Basis,2019,Inactive,2019.0,3,11
+595,Joaquin Wisozk,Male,1993,Married,1,27,Staff,Contarct Basis,2019,Inactive,2019.0,3,11
+596,Deontae Zemlak,Male,1991,Single,1,22,Staff,Contarct Basis,2019,Active,,3,10
+597,Jeanie McLaughlin,Female,1988,Single,1,157,Staff,Contarct Basis,2019,Active,,3,7
+599,Donnell Walsh,Male,1961,Married,1,22,Staff,Contarct Basis,2020,Inactive,2020.0,3,6
+601,Luna Harris DDS,Female,1996,Single,1,48,Staff,Contarct Basis,2020,Resigned,2021.0,3,5
+603,Prof Delores Barrows,Male,1993,Single,3,22,Staff,Contarct Basis,2020,Inactive,2020.0,3,6
+604,Prof Torey DuBuque,Male,1981,Married,1,33,Staff,Contarct Basis,2020,Resigned,2021.0,3,6
+605,Stella Aufderhar,Male,1984,Married,1,6,Staff,Contarct Basis,2019,Inactive,2020.0,3,7
+606,Prof Kameron Murphy Sr,Male,1996,Married,1,7,Staff,Contarct Basis,2019,Active,,3,7
+607,Alessandra Hermann,Female,1993,Single,1,89,Staff,Contarct Basis,2019,Resigned,2021.0,3,7
+608,Stone Hyatt I,Male,1994,Single,3,22,Staff,Contarct Basis,2019,Resigned,2021.0,3,7
+609,Ms Wilma Lowe,Female,1986,Married,1,84,Staff,Contarct Basis,2019,Inactive,2020.0,3,6
+610,Dr Sigmund Bartell,Male,1995,Married,3,9,Staff,Contarct Basis,2019,Resigned,2022.0,3,6
+611,Corene Hyatt Sr,Male,1971,Married,1,27,Staff,Contarct Basis,2019,Resigned,2022.0,3,6
+614,Laurence Hamill,Male,1946,Married,1,7,Staff,Contarct Basis,2019,Resigned,2021.0,4,0
+615,Mr Wilfredo Schmidt DVM,Male,1987,Married,1,33,Staff,Contarct Basis,2019,Resigned,2021.0,4,4
+616,Charlotte Bauch,Male,1993,Single,3,8,Staff,Contarct Basis,2019,Resigned,2022.0,3,11
+617,Marcelo Lubowitz II,Male,1994,Single,2,33,Staff,Contarct Basis,2019,Inactive,2020.0,4,2
+618,Fermin Medhurst,Male,1984,Married,1,64,Staff,Contarct Basis,2019,Resigned,2022.0,3,11
+619,Jamie Ortiz,Male,1991,Single,1,27,Staff,Contarct Basis,2019,Resigned,2021.0,3,11
+620,Jacky Luettgen,Male,1993,Single,1,27,Staff,Contarct Basis,2019,Active,,3,11
+621,Prof Vinnie Waelchi,Male,1987,Single,1,8,Staff,Contarct Basis,2019,Resigned,2021.0,4,0
+622,Demetris Heaney,Male,1990,Single,1,36,Staff,Contarct Basis,2019,Inactive,2020.0,3,10
+624,Justina Tillman,Male,1992,Single,1,108,Staff,Contarct Basis,2019,Active,,3,10
+625,Mr Giovani Schimmel,Male,1965,Married,1,6,Staff,Contarct Basis,2018,Resigned,2021.0,5,1
+626,Ricardo Fadel,Female,1993,Single,1,48,Staff,Contarct Basis,2019,Resigned,2021.0,3,10
+627,Anita Sporer IV,Male,1990,Single,1,22,Staff,Contarct Basis,2019,Active,,3,10
+628,Clifton Kerluke,Male,1981,Married,1,6,Staff,Contarct Basis,2019,Resigned,2022.0,3,10
+629,Prof Newell Ondricka V,Male,1993,Single,1,48,Staff,Contarct Basis,2019,Resigned,2022.0,3,9
+630,John Halvorson,Male,1989,Single,1,27,Staff,Contarct Basis,2019,Resigned,2021.0,3,10
+631,Khalid Lockman I,Male,1992,Single,1,33,Staff,Contarct Basis,2018,Inactive,2020.0,4,6
+633,Opal Yundt,Male,1990,Married,1,33,Staff,Contarct Basis,2019,Inactive,2020.0,4,0
+634,Garrison Steuber,Male,1971,Married,1,64,Staff,Contarct Basis,2019,Active,,3,10
+635,Laurianne Adams,Male,1996,Single,3,27,Staff,Contarct Basis,2019,Inactive,2020.0,3,9
+636,Mr Cooper Hills,Male,1994,Single,3,36,Staff,Contarct Basis,2019,Active,,3,9
+638,Prof Alfreda Mills Jr,Male,1989,Married,1,22,Staff,Contarct Basis,2019,Inactive,2020.0,3,9
+639,Jeramie Simonis,Male,1989,Single,3,22,Staff,Contarct Basis,2019,Resigned,2022.0,3,9
+640,Oral Marks,Male,1966,Married,1,8,Staff,Contarct Basis,2019,Inactive,2020.0,3,9
+641,Jaime Paucek,Male,1987,Married,1,22,Staff,Contarct Basis,2019,Inactive,2020.0,3,9
+642,Ashlynn Balistreri,Male,1952,Married,3,7,Staff,Contarct Basis,2019,Resigned,2021.0,3,9
+643,Ima Jast,Male,1985,Married,3,22,Staff,Contarct Basis,2019,Inactive,2020.0,4,0
+644,Prof Nannie Cole,Male,1996,Single,1,8,Staff,Contarct Basis,2019,Resigned,2022.0,3,8
+645,Dedric Steuber,Male,1987,Single,3,33,Staff,Contarct Basis,2019,Resigned,2022.0,3,8
+646,Hollie Rath,Male,1987,Married,3,36,Staff,Contarct Basis,2019,Active,,3,8
+649,Nolan Cronin Jr,Male,1971,Married,4,6,Staff,Contarct Basis,2019,Inactive,2020.0,3,7
+650,Tate Hackett,Male,1968,Married,1,64,Staff,Contarct Basis,2019,Active,,3,7
+651,Wayne Hartmann,Male,1969,Married,3,6,Staff,Contarct Basis,2019,Inactive,2020.0,3,7
+652,Oma McGlynn,Male,1987,Married,3,33,Staff,Contarct Basis,2019,Inactive,2020.0,3,7
+653,Aleen Kub IV,Male,1976,Married,1,7,Staff,Contarct Basis,2019,Active,,3,7
+654,Rogelio Wyman,Male,1969,Married,1,64,Staff,Contarct Basis,2019,Inactive,2020.0,3,7
+655,Bernardo Roberts,Male,1981,Single,1,54,Staff,Contarct Basis,2019,Inactive,2020.0,3,7
+656,Jayde Gaylord DDS,Male,1992,Married,1,35,Staff,Contarct Basis,2019,Resigned,2021.0,3,7
+658,Clarabelle Smitham,Male,1988,Married,1,8,Staff,Contarct Basis,2019,Inactive,2020.0,3,7
+659,Missouri Satterfield,Male,1981,Married,3,8,Staff,Contarct Basis,2005,Active,,17,7
+660,Mikel Rutherford,Male,1978,Married,1,102,Staff,Contarct Basis,2018,Inactive,2020.0,4,7
+662,Bettie Rowe,Male,1993,Single,1,39,Staff,Contarct Basis,2019,Resigned,2021.0,4,6
+663,Sarina Christiansen,Male,1993,Single,1,7,Staff,Contarct Basis,2019,Inactive,2020.0,4,2
+664,Dr Jazmyne Farrell MD,Male,1988,Married,1,8,Staff,Contarct Basis,2019,Active,,4,0
+665,Toy Toy,Male,1994,Single,1,7,Staff,Contarct Basis,2018,Inactive,2020.0,5,0
+666,Annamarie Cartwright,Male,1985,Married,1,80,Staff,Contarct Basis,2018,Inactive,2020.0,4,8
+667,Stanley Zulauf,Male,1983,Married,1,6,Staff,Contarct Basis,2019,Resigned,2021.0,4,1
+668,Hobart Stracke,Male,1986,Single,1,36,Staff,Contarct Basis,2017,Resigned,2021.0,6,3
+670,Mrs Shanna Pagac,Male,1987,Married,1,22,Staff,Contarct Basis,2019,Inactive,2020.0,3,10
+671,Karen Sipes,Male,1991,Single,3,6,Staff,Contarct Basis,2019,Inactive,2021.0,4,2
+672,Dr Megane Stoltenberg,Male,1976,Married,2,24,Staff,Contarct Basis,2019,Inactive,2020.0,3,8
+673,Thurman Greenfelder,Male,1978,Married,2,73,Staff,Contarct Basis,2019,Active,,3,7
+674,Lionel Hettinger,Male,1987,Married,1,48,Staff,Contarct Basis,2016,Inactive,2020.0,6,7
+675,Elian Oberbrunner,Male,1980,Married,1,37,Staff,Contarct Basis,2017,Inactive,2020.0,5,6
+676,Loraine Schmeler,Male,1958,Single,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,4,2
+677,Manuel Rau,Male,1976,Married,1,55,Labour,Contarct Basis,2019,Resigned,2021.0,4,6
+678,Prof Barney Carroll Sr,Male,1993,Single,1,31,Labour,Contarct Basis,2019,Resigned,2020.0,4,6
+680,Prof Rowena Skiles,Male,1971,Married,1,31,Labour,Contarct Basis,2019,Resigned,2020.0,4,6
+682,Oleta Schroeder,Male,1955,Married,1,31,Labour,Contarct Basis,2020,Resigned,2021.0,2,7
+683,America Haley,Male,1991,Married,1,55,Labour,Contarct Basis,2019,Resigned,2020.0,4,6
+684,Nathen Langosh MD,Male,1978,Married,1,22,Staff,Permanant,1998,Resigned,2021.0,25,0
+685,Mr Efren Langworth Jr,Male,1972,Married,1,31,Labour,Contarct Basis,2019,Resigned,2020.0,4,6
+686,Lacey Paucek,Male,1954,Married,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,4,5
+689,Mrs Bessie Schultz,Male,1959,Married,1,99,Staff,Contarct Basis,2019,Inactive,2020.0,4,0
+690,Miss Wanda Bayer,Male,1974,Married,1,7,Staff,Contarct Basis,2019,Resigned,2022.0,4,0
+691,Irving Paucek,Male,1991,Single,1,22,Staff,Contarct Basis,2019,Inactive,2020.0,4,4
+692,Dr Marion Borer,Male,1987,Married,1,6,Staff,Contarct Basis,2019,Inactive,2020.0,4,6
+693,Prof Sienna Quigley,Male,1955,Married,1,99,Staff,Contarct Basis,2019,Inactive,2020.0,4,4
+695,Chanel Spencer,Male,1965,Married,1,31,Labour,Contarct Basis,2019,Resigned,2020.0,4,5
+697,Cletus Bayer Sr,Male,1981,Married,1,31,Labour,Contarct Basis,2019,Resigned,2021.0,4,2
+698,Dr Dashawn Bailey,Male,1958,Married,1,122,Labour,Contarct Basis,2020,Active,,3,1
+699,Weston Prohaska III,Male,1986,Married,1,22,Staff,Contarct Basis,2016,Active,,6,6
+700,Alejandra Kreiger,Male,1991,Single,1,122,Labour,Contarct Basis,2019,Active,,3,10
+701,Prof Marlin Adams,Male,1992,Single,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,6
+702,Fausto Konopelski,Male,1961,Married,1,122,Labour,Contarct Basis,2019,Resigned,2020.0,3,9
+703,Cali Jacobson,Male,1981,Married,1,122,Labour,Contarct Basis,2019,Resigned,2021.0,3,9
+709,Leif Konopelski,Male,1994,Single,1,48,Staff,Contarct Basis,2018,Resigned,2022.0,5,1
+710,Prof Norma Osinski MD,Male,1999,Single,1,31,Labour,Contarct Basis,2020,Resigned,2020.0,3,6
+711,Brandt Satterfield,Male,1972,Married,1,24,Staff,Contarct Basis,2018,Inactive,2020.0,4,9
+712,Hope White,Male,1994,Single,2,65,Staff,Contarct Basis,2018,Resigned,2022.0,4,8
+713,Wilburn Gleason,Male,1993,Single,1,86,Staff,Contarct Basis,2019,Active,,4,4
+715,Dr Ward Pagac,Male,1992,Single,1,33,Staff,Contarct Basis,2019,Resigned,2021.0,4,1
+716,Prof Vickie Oberbrunner I,Male,1962,Married,3,6,Staff,Contarct Basis,2020,Resigned,2020.0,3,3
+717,Mrs Veronica Ziemann,Female,1993,Single,1,125,Staff,Contarct Basis,2020,Active,,3,0
+719,Emilio Lebsack,Male,1958,Married,1,31,Labour,Contarct Basis,2020,Resigned,2021.0,3,5
+718,Dr Jessy Schmidt,Female,1996,Single,1,125,Staff,Contarct Basis,2020,Active,,3,0
+720,Danial Hyatt,Female,1993,Single,1,125,Staff,Contarct Basis,2018,Inactive,2020.0,5,2
+721,Alexandro Marvin DDS,Male,1967,Married,1,31,Labour,Contarct Basis,2020,Resigned,2020.0,3,5
+724,Clementine Lehner,Female,1970,Married,1,22,Staff,Contarct Basis,2020,Resigned,2021.0,3,6
+726,Ramiro Leffler,Male,1978,Married,1,24,Staff,Contarct Basis,2020,Inactive,2020.0,3,5
+728,Dr Candelario Douglas Jr,Male,1991,Married,1,22,Staff,Contarct Basis,2020,Resigned,2021.0,3,5
+729,Miss Allison Tillman,Male,1964,Married,1,124,Labour,Contarct Basis,2020,Inactive,2020.0,3,4
+730,Katarina Wintheiser,Male,1993,Single,2,27,Staff,Contarct Basis,2018,Inactive,2020.0,5,2
+731,Letha Gleason,Male,2000,Single,1,51,Staff,Contarct Basis,2018,Resigned,2021.0,4,8
+733,Katrina Effertz,Male,1985,Married,1,80,Staff,Contarct Basis,2019,Inactive,2020.0,4,6
+734,Dorcas Wuckert,Male,1987,Married,3,33,Staff,Contarct Basis,2019,Inactive,2021.0,4,1
+735,Miss Chanelle Corkery I,Male,1991,Single,3,36,Staff,Contarct Basis,2020,Resigned,2021.0,3,4
+736,Benjamin Cronin,Male,1987,Married,1,8,Staff,Contarct Basis,2010,Active,,13,1
+737,Herminia Feest,Male,1976,Married,1,64,Staff,Contarct Basis,2019,Inactive,2020.0,3,7
+738,Shakira Wiegand,Male,1978,Married,1,1,Labour,Contarct Basis,2021,Resigned,2021.0,2,6
+739,Jadyn Lang,Male,1971,Married,1,31,Labour,Contarct Basis,2019,Resigned,2021.0,4,3
+740,Dr Jackie Schumm I,Male,1974,Married,1,31,Labour,Contarct Basis,2019,Resigned,2021.0,4,3
+741,Precious Kemmer,Male,1984,Single,1,31,Labour,Contarct Basis,2020,Resigned,2022.0,3,1
+742,Josie Gutkowski,Male,1984,Married,1,31,Labour,Contarct Basis,2020,Resigned,2021.0,2,6
+743,Prof Bertha Emard Sr,Male,1987,Married,1,31,Labour,Contarct Basis,2020,Resigned,2021.0,2,7
+744,Shanny Kohler MD,Male,1975,Married,1,1,Labour,Contarct Basis,2020,Inactive,2020.0,2,10
+747,Craig Gutmann,Male,1994,Single,1,7,Staff,Contarct Basis,2017,Active,,6,5
+749,Miss Frances Barton IV,Male,1951,Married,1,135,Labour,Contarct Basis,2019,Active,,3,9
+750,Dallin Feeney,Male,1958,Married,1,37,Labour,Contarct Basis,2019,Inactive,2020.0,3,7
+751,Kristina Bahringer,Male,1978,Married,1,43,Labour,Contarct Basis,2020,Inactive,2020.0,3,6
+752,Mr German Spinka DDS,Male,1999,Single,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,5
+753,Dr Marco Casper,Male,1963,Married,1,102,Staff,Contarct Basis,2007,Inactive,2020.0,16,2
+754,Herman Cronin,Male,1987,Single,1,31,Labour,Contarct Basis,2019,Active,,4,6
+755,Lorine Grimes,Male,1987,Married,1,31,Labour,Contarct Basis,2019,Active,,4,4
+756,Adah Tromp,Male,1987,Married,3,123,Labour,Contarct Basis,2020,Inactive,2020.0,3,6
+757,Lisa Jaskolski,Male,1987,Married,1,123,Labour,Contarct Basis,2020,Resigned,2022.0,3,0
+758,Leon Trantow,Female,1987,Married,1,29,Labour,Contarct Basis,2020,Active,,3,5
+760,Myrtle Hammes,Male,1967,Married,1,30,Labour,Contarct Basis,2020,Active,,2,7
+761,Vanessa Tremblay IV,Male,1993,Single,1,38,Labour,Contarct Basis,2020,Resigned,2022.0,3,1
+762,Hulda Leannon III,Male,1952,Married,1,134,Labour,Contarct Basis,2019,Resigned,2020.0,4,0
+764,Nelson Considine,Male,2003,Single,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,3,6
+765,Prof Garret Blanda I,Male,2003,Single,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,3,6
+767,Sierra Marks,Male,1993,Married,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,5
+770,Elenor Nitzsche,Male,1964,Married,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,5
+772,Theron Nader,Male,1987,Single,3,31,Labour,Contarct Basis,2020,Resigned,2021.0,3,6
+776,Ms Trisha Barrows DVM,Male,1997,Single,1,55,Labour,Contarct Basis,2019,Resigned,2020.0,3,8
+777,Evert Christiansen,Male,2001,Single,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,2,11
+778,Rosina Feil DVM,Male,1961,Married,1,31,Labour,Contarct Basis,2020,Resigned,2022.0,3,1
+780,Jean Stanton,Male,1999,Single,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,3,6
+781,Janessa Powlowski,Male,1990,Married,4,31,Labour,Contarct Basis,2019,Resigned,2022.0,4,6
+782,Dr Amara Leffler,Male,2000,Single,4,31,Labour,Contarct Basis,2020,Active,,3,4
+783,Kassandra Gerlach,Male,2000,Single,3,31,Labour,Contarct Basis,2019,Resigned,2022.0,4,6
+784,Dale Kuhn,Male,1954,Married,3,31,Labour,Contarct Basis,2019,Resigned,2021.0,4,6
+785,Dr Garth Gerlach,Male,1987,Married,3,31,Labour,Contarct Basis,2019,Inactive,2020.0,4,6
+788,Mr Garrett Bernier,Male,1961,Married,4,31,Labour,Contarct Basis,2019,Resigned,2021.0,4,6
+789,Alexandrea Cormier V,Male,1996,Single,3,31,Labour,Contarct Basis,2019,Inactive,2020.0,4,6
+791,Porter Renner,Male,2000,Single,4,31,Labour,Contarct Basis,2019,Inactive,2021.0,4,5
+794,Jennyfer Waelchi III,Male,1966,Married,4,31,Labour,Contarct Basis,2019,Inactive,2019.0,4,0
+796,Gustave Balistreri Sr,Male,1995,Single,3,31,Labour,Contarct Basis,2019,Inactive,2020.0,4,1
+798,Wilfrid Smitham,Male,1993,Married,1,31,Labour,Contarct Basis,2018,Resigned,2021.0,4,7
+799,Gage Deckow III,Male,1968,Married,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,4,6
+801,Amber Mitchell,Male,1983,Single,1,31,Labour,Contarct Basis,2019,Resigned,2021.0,3,10
+802,Dr Cristal Collier Jr,Male,1980,Married,1,1,Labour,Contarct Basis,2019,Inactive,2020.0,4,1
+803,Mozell Cremin,Male,1992,Married,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,3,8
+805,Dave DuBuque DDS,Male,1995,Married,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,2,5
+806,Pinkie Harber,Male,1999,Single,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,2,5
+808,Katelyn Mitchell,Male,1985,Single,3,122,Labour,Contarct Basis,2020,Active,,3,1
+809,Libbie Price PhD,Male,1978,Married,3,31,Labour,Contarct Basis,2019,Resigned,2022.0,4,0
+810,Elza Bode,Male,1960,Married,3,31,Labour,Contarct Basis,2019,Resigned,2021.0,4,0
+811,Miss Libby Dibbert,Male,1966,Married,4,31,Labour,Contarct Basis,2019,Active,,4,0
+812,Sarina Weber,Male,1992,Married,4,1,Labour,Contarct Basis,2019,Inactive,2020.0,4,0
+813,Sherwood Padberg,Male,1975,Married,1,30,Labour,Contarct Basis,2020,Resigned,2021.0,2,7
+814,Dr Noble Bruen,Male,1981,Married,3,122,Labour,Contarct Basis,2019,Inactive,2020.0,4,0
+816,Connie Murazik,Male,1998,Single,3,31,Labour,Contarct Basis,2019,Resigned,2021.0,3,11
+817,Gerda Hoppe,Male,1998,Single,3,30,Labour,Contarct Basis,2019,Inactive,2020.0,3,8
+823,Nolan Mann,Male,1972,Married,3,31,Labour,Contarct Basis,2020,Resigned,2020.0,3,5
+825,Prof Jayden Vandervort PhD,Male,1975,Married,3,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,5
+826,Miss Fabiola Morissette,Male,1996,Single,4,31,Labour,Contarct Basis,2020,Active,,3,5
+827,Lowell Lang,Male,1987,Married,3,30,Labour,Contarct Basis,2019,Inactive,2020.0,3,10
+828,Abigayle Deckow,Male,1981,Married,3,31,Labour,Contarct Basis,2020,Active,,3,1
+829,Lexie Wunsch,Male,1987,Married,3,122,Labour,Contarct Basis,2019,Resigned,2022.0,3,8
+830,Kiley Deckow,Male,1987,Single,3,122,Labour,Contarct Basis,2020,Resigned,2022.0,3,5
+832,Bella Rosenbaum,Male,1970,Married,1,55,Labour,Contarct Basis,2019,Resigned,2022.0,4,6
+837,Lauren Cassin,Male,1996,Single,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,6
+838,Chloe Hammes III,Male,1994,Married,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,1
+839,Elwin Luettgen,Male,1997,Married,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,4
+841,Evangeline Cummings,Male,1987,Married,4,31,Labour,Contarct Basis,2019,Inactive,2020.0,4,6
+845,Della Tremblay,Male,1987,Single,3,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,6
+848,Joannie Shields,Male,1987,Married,1,1,Labour,Contarct Basis,2020,Resigned,2022.0,2,7
+850,Jewell Bogisich,Male,1987,Single,1,30,Labour,Contarct Basis,2019,Inactive,2020.0,3,11
+852,Amos Cremin IV,Male,1973,Married,4,122,Labour,Contarct Basis,2019,Active,,3,10
+853,Raymundo Ortiz,Male,1982,Married,3,30,Labour,Contarct Basis,2019,Inactive,2020.0,3,10
+854,Prof Sandrine Kulas,Male,1987,Married,4,38,Labour,Contarct Basis,2021,Resigned,2022.0,2,5
+855,Rebecca Kuvalis III,Male,1987,Single,3,31,Labour,Contarct Basis,2019,Inactive,2020.0,3,7
+858,Dr Jadon Rempel,Male,1949,Married,3,122,Labour,Contarct Basis,2019,Resigned,2022.0,3,6
+859,Kaylin Aufderhar IV,Male,1995,Single,3,122,Labour,Contarct Basis,2019,Resigned,2022.0,3,6
+860,Layne Bins MD,Male,1966,Single,1,30,Labour,Contarct Basis,2020,Inactive,2020.0,3,6
+861,Charlene Harris,Male,1966,Married,1,1,Labour,Contarct Basis,2020,Inactive,2020.0,3,6
+863,Mortimer Walter,Male,1987,Married,1,30,Labour,Contarct Basis,2020,Inactive,2020.0,3,5
+864,Maya King,Male,1987,Single,3,122,Labour,Contarct Basis,2020,Resigned,2021.0,3,5
+866,Chanelle Konopelski,Male,1987,Single,4,122,Labour,Contarct Basis,2020,Resigned,2022.0,3,5
+867,Irwin Treutel,Male,1987,Married,3,122,Labour,Contarct Basis,2020,Inactive,2020.0,3,5
+869,Dr Milford Gerlach Sr,Male,1987,Single,3,122,Labour,Contarct Basis,2020,Resigned,2021.0,3,5
+870,Louvenia Gerlach,Male,1987,Married,3,30,Labour,Contarct Basis,2020,Inactive,2020.0,3,5
+871,Prof Royal Koelpin,Male,1987,Single,3,38,Labour,Contarct Basis,2020,Resigned,2021.0,3,4
+872,Antonetta Littel,Female,1987,Married,1,134,Labour,Contarct Basis,2020,Active,,3,1
+873,Prof Nicolas Cronin,Male,1970,Married,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,3,9
+875,Prof Marie Sporer Sr,Male,1989,Married,1,31,Labour,Contarct Basis,2019,Resigned,2021.0,3,9
+877,Margie Tremblay,Male,1992,Single,1,31,Labour,Contarct Basis,2019,Resigned,2020.0,3,10
+878,Dennis Miller,Male,1984,Married,1,31,Labour,Contarct Basis,2019,Resigned,2022.0,3,10
+879,Dean Strosin,Male,1979,Married,1,29,Labour,Contarct Basis,2019,Resigned,2021.0,3,10
+880,Constance McClure,Male,1963,Married,1,135,Labour,Contarct Basis,2019,Active,,3,9
+882,Miss Judy Carroll III,Male,1960,Married,1,135,Labour,Contarct Basis,2019,Resigned,2022.0,3,9
+886,Mr Gaston Wintheiser,Male,1971,Married,1,31,Labour,Contarct Basis,2019,Resigned,2020.0,3,7
+889,Danika Collier,Male,1977,Married,1,31,Labour,Contarct Basis,2020,Inactive,2021.0,3,1
+890,Mr Schuyler Fritsch Jr,Male,1999,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,4
+891,Alyce Littel,Male,1980,Married,1,31,Labour,Contarct Basis,2020,Resigned,2022.0,3,5
+892,Mr Christ Schinner,Male,1976,Married,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,5
+894,Dr Destany Rempel,Male,1963,Married,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,5
+895,Eric Luettgen,Male,1986,Married,1,31,Labour,Contarct Basis,2020,Resigned,2021.0,3,5
+896,Jed Hermann MD,Male,1980,Married,1,31,Labour,Contarct Basis,2020,Resigned,2022.0,3,5
+897,Sonia Stoltenberg I,Male,1982,Married,1,31,Labour,Contarct Basis,2020,Resigned,2021.0,3,5
+898,Dean Kohler,Male,1968,Married,1,31,Labour,Contarct Basis,2020,Resigned,2021.0,3,5
+899,Alysa Schimmel,Male,1971,Married,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,5
+900,Gussie Beahan MD,Male,1983,Married,1,31,Labour,Contarct Basis,2020,Resigned,2022.0,3,5
+901,Mrs Heloise Kovacek,Male,1986,Married,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,5
+902,Ms Elta Hoeger III,Male,1989,Married,1,31,Labour,Contarct Basis,2020,Resigned,2022.0,3,4
+905,Isabelle Turner,Male,1975,Married,1,31,Labour,Contarct Basis,2020,Resigned,2022.0,3,4
+906,Dave Bernhard,Male,1985,Married,1,31,Labour,Contarct Basis,2020,Resigned,2022.0,3,4
+907,Kacie Rippin PhD,Male,1987,Married,1,134,Labour,Contarct Basis,2020,Resigned,2021.0,3,5
+908,Prof Oswaldo Collins,Male,1984,Married,1,30,Labour,Contarct Basis,2020,Active,,3,1
+910,Sheila Toy,Male,1981,Married,1,31,Labour,Contarct Basis,2020,Resigned,2021.0,3,1
+918,Kameron Hilpert,Male,1984,Married,1,31,Labour,Contarct Basis,2020,Resigned,2021.0,3,1
+921,Mrs Meagan Jenkins,Male,1982,Married,1,1,Labour,Contarct Basis,2020,Resigned,2022.0,3,1
+923,Ms Margarita Vandervort IV,Male,1970,Married,1,7,Staff,Contarct Basis,2014,Resigned,2021.0,9,4
+924,Eliezer Schaden,Male,1993,Single,2,33,Staff,Contarct Basis,2018,Inactive,2020.0,5,2
+925,Flo Nienow,Male,1977,Married,2,22,Staff,Contarct Basis,2019,Active,,4,5
+926,Mrs Kiarra Hickle,Male,1977,Married,1,55,Labour,Contarct Basis,2020,Inactive,2020.0,2,10
+928,Kevin Dooley,Male,1975,Married,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,6
+929,Prof Esther Bradtke MD,Male,1987,Married,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,4,6
+930,Prof Cody Monahan,Male,1996,Single,1,1,Labour,Contarct Basis,2019,Inactive,2020.0,4,6
+932,Prof Oscar Shields,Male,1987,Married,1,31,Labour,Contarct Basis,2019,Resigned,2021.0,4,6
+933,Ferne Beier V,Male,1977,Married,1,31,Labour,Contarct Basis,2019,Resigned,2021.0,4,3
+934,Mr Keshawn DuBuque,Male,1960,Married,1,31,Labour,Contarct Basis,2019,Resigned,2021.0,4,6
+939,Rasheed Abshire,Male,1987,Married,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,4,0
+940,Mr Michael Cassin,Male,1997,Single,1,70,Staff,Contarct Basis,2020,Inactive,2020.0,3,4
+941,Hardy Casper,Female,1993,Single,1,2,Staff,Contarct Basis,2020,Resigned,2022.0,3,5
+942,Lilliana Wisozk,Male,1994,Single,1,48,Staff,Contarct Basis,2020,Active,,3,4
+943,Mr Cameron McCullough,Male,1997,Single,1,88,Staff,Contarct Basis,2020,Resigned,2021.0,3,4
+944,Louie Hackett,Male,1987,Single,1,48,Staff,Contarct Basis,2020,Inactive,2020.0,3,4
+945,Ernest Effertz,Male,1964,Married,1,6,Staff,Contarct Basis,2020,Active,,3,4
+947,Edmond Schulist,Male,1962,Married,1,107,Staff,Contarct Basis,2020,Active,,3,4
+948,Genevieve Hahn,Male,1988,Single,1,8,Staff,Contarct Basis,2020,Active,,3,4
+949,Sunny Heller,Male,1988,Married,1,8,Staff,Contarct Basis,2020,Inactive,2020.0,3,5
+950,Isai Jacobson IV,Male,1987,Single,1,7,Staff,Contarct Basis,2020,Active,,3,2
+951,Maybell Okuneva,Male,1995,Single,1,27,Staff,Contarct Basis,2018,Resigned,2020.0,5,3
+952,Benjamin Willms,Male,1956,Married,1,120,Management,Contarct Basis,2020,Inactive,2020.0,3,1
+953,Orland Hansen,Male,1987,Married,1,29,Labour,Contarct Basis,2019,Inactive,2020.0,4,6
+958,Mariana Borer,Male,1987,Married,1,1,Labour,Contarct Basis,2019,Inactive,2020.0,3,9
+959,Ellis Mayer,Male,1984,Married,1,1,Labour,Contarct Basis,2021,Resigned,2021.0,2,5
+961,Cecile Jacobson,Male,1971,Married,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,3,9
+962,Krystal Dietrich,Male,1997,Married,1,31,Labour,Contarct Basis,2021,Active,,2,5
+965,Mr Connor Hauck,Male,1987,Married,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,3,8
+968,Sammy Heidenreich,Male,1987,Married,1,31,Labour,Contarct Basis,2020,Resigned,2021.0,2,7
+969,Cristopher Keebler,Male,1987,Married,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,2,5
+970,Prof Freeda Strosin II,Male,1987,Married,1,53,Labour,Contarct Basis,2019,Inactive,2020.0,3,7
+971,Eula Klein,Male,1985,Married,1,22,Staff,Contarct Basis,2019,Resigned,2021.0,4,1
+973,Dario Romaguera,Male,2003,Single,2,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,5
+975,Julius Douglas,Male,1996,Single,1,128,Staff,Contarct Basis,2019,Resigned,2021.0,3,9
+976,Dr Hettie Robel,Male,1997,Married,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,3,11
+977,Domingo Harber I,Male,1996,Married,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,3,11
+979,Mrs Alvera McClure Sr,Male,1968,Married,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,3,9
+983,Magnus Gerlach III,Male,1985,Married,1,31,Labour,Contarct Basis,2021,Active,,2,5
+984,Jamel Davis,Male,1959,Married,1,32,Staff,Contarct Basis,2010,Inactive,2020.0,13,0
+986,Zoey Rempel,Male,1992,Married,1,31,Labour,Contarct Basis,2020,Resigned,2021.0,3,1
+987,Dr Waylon Cassin DVM,Male,1996,Married,1,1,Labour,Contarct Basis,2020,Resigned,2021.0,3,1
+988,Horace Connelly,Male,1969,Married,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,3,9
+989,Katharina Kling,Male,1997,Married,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,3,9
+990,Miss Makayla Weber IV,Male,1995,Single,1,31,Labour,Contarct Basis,2019,Resigned,2020.0,3,9
+991,Jarred D'Amore,Male,1996,Married,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,3,8
+992,Erika Kihn,Male,1987,Married,1,31,Labour,Contarct Basis,2020,Resigned,2022.0,3,1
+994,Mr Jefferey Bernier,Male,1985,Married,1,31,Labour,Contarct Basis,2020,Resigned,2021.0,3,1
+999,Lily Fritsch,Male,1980,Married,1,1,Labour,Contarct Basis,2020,Resigned,2022.0,3,6
+1000,Tamara Grant IV,Male,1971,Married,1,1,Labour,Contarct Basis,2020,Inactive,2020.0,3,6
+1002,Ms Amanda Yost,Male,1988,Married,1,1,Labour,Contarct Basis,2020,Resigned,2021.0,3,5
+1003,Mollie Lemke MD,Male,1977,Married,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,6
+1006,Melvin Schroeder,Male,1974,Married,1,37,Staff,Contarct Basis,2018,Resigned,2021.0,4,7
+1007,Maximus Luettgen,Male,1988,Married,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,4
+1008,Caroline Williamson I,Male,1969,Married,1,31,Labour,Contarct Basis,2020,Active,,3,4
+1009,Jewel Lakin,Male,1974,Married,1,1,Labour,Contarct Basis,2020,Inactive,2020.0,3,4
+1010,Nikki McLaughlin,Male,2003,Single,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,4
+1013,Prof Brent Mills MD,Male,1999,Single,1,31,Labour,Contarct Basis,2020,Resigned,2021.0,3,4
+1015,Rebekah Yost,Male,1987,Married,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,3,7
+1016,Prof Dorothea Lubowitz,Male,1987,Married,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,2,5
+1017,Kailey Schumm,Male,1987,Married,1,31,Labour,Contarct Basis,2019,Inactive,2019.0,3,7
+1018,Bessie Lueilwitz,Male,1987,Married,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,3,7
+1019,Prof Hertha Bernier I,Male,1987,Married,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,3,7
+1020,Mr Johann Hirthe V,Male,1957,Married,1,31,Labour,Contarct Basis,2019,Inactive,2019.0,3,8
+1033,Mrs Verona Spencer DDS,Male,2001,Single,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,3,7
+1037,Gudrun Schumm Sr,Male,1972,Married,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,3,7
+1045,Bria Wiza,Male,1968,Married,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,4
+1046,Effie Feil V,Male,1994,Single,3,30,Labour,Contarct Basis,2020,Inactive,2020.0,3,4
+1047,Israel Hettinger,Male,1960,Married,1,31,Labour,Contarct Basis,2020,Resigned,2020.0,3,4
+1050,Mr Brando Sauer PhD,Male,1982,Married,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,4
+1051,Davin Mueller IV,Male,1976,Married,1,1,Labour,Contarct Basis,2019,Inactive,2019.0,4,6
+1052,Robert Swift,Male,2000,Single,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,4
+1054,Dr Travon Gutmann V,Male,1992,Single,3,122,Labour,Contarct Basis,2020,Resigned,2021.0,3,3
+1055,Nayeli Stehr,Male,2000,Single,3,122,Labour,Contarct Basis,2020,Inactive,2020.0,3,3
+1056,Dan Heathcote,Male,1964,Married,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,4
+1057,Pierce Kling,Male,1976,Married,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,4
+1058,Pasquale Block,Male,1973,Married,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,4
+1060,Alene Rath,Male,1987,Married,1,31,Labour,Contarct Basis,2020,Resigned,2021.0,2,7
+1061,Dr Ashley Doyle,Male,1998,Single,1,31,Labour,Contarct Basis,2020,Resigned,2021.0,3,4
+1063,Dejah Cormier,Male,1979,Married,1,1,Labour,Contarct Basis,2019,Inactive,2020.0,3,7
+1064,Rosalia Braun,Male,1969,Married,1,31,Labour,Contarct Basis,2020,Resigned,2021.0,3,5
+1065,Shawn Goldner IV,Male,1998,Single,1,80,Staff,Contarct Basis,2020,Inactive,2020.0,3,4
+1066,Alfreda Stiedemann Jr,Female,1993,Single,1,125,Staff,Contarct Basis,2020,Resigned,2020.0,3,5
+1068,Sheldon Boehm,Male,1987,Single,1,27,Staff,Contarct Basis,2019,Inactive,2020.0,3,11
+1069,Brando Zboncak,Male,1987,Single,1,35,Staff,Contarct Basis,2018,Inactive,2020.0,4,11
+1070,Dameon Kshlerin I,Male,1987,Married,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,2,11
+1071,Mr Dewitt Mraz DDS,Male,1955,Married,1,55,Staff,Contarct Basis,2015,Resigned,2022.0,8,0
+1072,Zena Bauch,Male,1987,Married,1,55,Labour,Contarct Basis,2021,Resigned,2022.0,2,5
+1073,Arden Upton Jr,Male,1968,Married,1,27,Staff,Contarct Basis,2017,Active,,6,4
+1074,Prof Devan Bogisich V,Male,1987,Married,1,31,Labour,Contarct Basis,2019,Inactive,2020.0,3,7
+1076,Ms Adell Watsica,Male,1983,Married,3,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,4
+1077,Marianne Dickens,Male,1976,Married,1,116,Management,Contarct Basis,2019,Inactive,2020.0,3,9
+1078,Bart Weber,Male,1991,Married,1,97,Staff,Contarct Basis,2019,Inactive,2020.0,4,4
+1080,Mrs Matilda Lehner DVM,Male,1961,Married,1,107,Staff,Contarct Basis,2019,Active,,3,10
+1081,Elza Bailey,Male,1957,Married,1,68,Staff,Contarct Basis,2019,Active,,4,1
+1082,Sally Hegmann,Male,1999,Single,1,55,Labour,Contarct Basis,2020,Inactive,2020.0,3,4
+1083,Sherman Hahn,Male,1987,Single,3,108,Staff,Contarct Basis,2020,Inactive,2020.0,3,5
+1084,Mr Antonio Parisian,Male,2001,Single,1,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,4
+1085,Chadd Gorczany Sr,Male,1978,Married,1,31,Labour,Contarct Basis,2020,Resigned,2021.0,2,7
+1086,Prof Peyton Waelchi DVM,Male,1981,Married,1,22,Staff,Contarct Basis,2020,Resigned,2021.0,3,4
+1089,Flavio Monahan,Male,1987,Single,1,31,Labour,Contarct Basis,2019,Resigned,2022.0,3,8
+1090,Edmund McClure,Male,1995,Single,1,129,Labour,Contarct Basis,2020,Inactive,2020.0,3,5
+1092,Jaeden Mohr,Male,1980,Married,1,104,Management,Contarct Basis,2020,Inactive,2020.0,3,1
+1093,Dr Fabiola Ward Jr,Male,1970,Married,1,31,Labour,Contarct Basis,2019,Resigned,2022.0,3,10
+1094,Candida Wisozk,Male,1993,Married,1,31,Labour,Contarct Basis,2019,Resigned,2022.0,3,9
+1097,Karl Rau,Male,1987,Married,1,134,Labour,Contarct Basis,2020,Active,,3,5
+1098,Nichole Murray,Male,1980,Married,3,71,Staff,Contarct Basis,2017,Resigned,2022.0,6,0
+1104,Allene Sipes,Male,1993,Single,1,31,Labour,Contarct Basis,2020,Resigned,2020.0,3,4
+1106,Isabelle Daniel,Male,1953,Married,1,31,Labour,Contarct Basis,2020,Resigned,2022.0,3,4
+1109,Martine Lesch,Male,1973,Married,2,132,Staff,Contarct Basis,2020,Resigned,2022.0,3,1
+1110,Zakary Emmerich,Male,1985,Married,1,133,Staff,Contarct Basis,2020,Inactive,2020.0,3,1
+1120,Antone Kautzer,Male,1994,Single,1,38,Labour,Contarct Basis,2020,Active,,3,3
+1121,Margaretta Braun,Male,1986,Married,1,31,Labour,Contarct Basis,2020,Resigned,2021.0,3,2
+1126,Mallory Runolfsson,Male,1987,Single,1,122,Labour,Contarct Basis,2019,Active,,3,10
+1127,Mrs Ivah Vandervort,Male,1987,Married,1,31,Labour,Contarct Basis,2020,Resigned,2022.0,2,7
+1130,Esteban Davis,Male,1968,Married,4,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,2
+1131,Mr Devyn Swift,Male,1976,Married,1,64,Staff,Contarct Basis,2020,Active,,3,1
+1132,Garth Gutmann,Male,1979,Married,4,31,Labour,Contarct Basis,2020,Inactive,2020.0,3,2
+1134,Prof Doyle Ankunding,Male,1979,Single,4,1,Labour,Contarct Basis,2020,Inactive,2020.0,3,1
+1135,Mr Anderson Harvey PhD,Male,1994,Married,3,1,Labour,Contarct Basis,2020,Inactive,2020.0,3,2
+1137,Miss Felicity Skiles,Male,1978,Married,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,2,5
+1138,Muriel Turcotte,Male,1966,Married,1,30,Labour,Contarct Basis,2019,Resigned,2022.0,3,7
+1139,Emanuel Larkin,Male,1983,Married,1,31,Labour,Contarct Basis,2019,Resigned,2020.0,3,7
+1141,Josefa Goyette,Male,1969,Married,1,1,Labour,Contarct Basis,2021,Resigned,2021.0,2,5
+1158,Belle Roberts DDS,Male,1982,Married,3,33,Staff,Contarct Basis,2020,Resigned,2022.0,3,1
+1164,Dr Gabriel Dicki,Male,1992,Single,1,8,Staff,Contarct Basis,2020,Inactive,2020.0,3,0
+1171,Alysson Rath,Male,1995,Single,4,27,Staff,Contarct Basis,2020,Inactive,2020.0,3,0
+1172,Dr Erwin Kuhn III,Male,1995,Married,1,24,Staff,Contarct Basis,2020,Inactive,2020.0,3,0
+1173,Judd Johnston,Male,1991,Single,1,108,Staff,Contarct Basis,2020,Inactive,2020.0,3,0
+1176,Prof Presley Koepp II,Male,1953,Married,3,6,Staff,Contarct Basis,2020,Resigned,2020.0,3,0
+1178,Aletha Becker,Male,1989,Married,3,8,Staff,Contarct Basis,2020,Resigned,2022.0,3,0
+1179,Ezekiel Greenfelder,Male,1975,Married,1,64,Staff,Contarct Basis,2020,Resigned,2021.0,3,0
+1193,Julius Fay,Male,1957,Married,1,62,Labour,Contarct Basis,2020,Inactive,2020.0,3,1
+1208,Anna Morar,Male,1980,Married,1,24,Staff,Contarct Basis,2020,Resigned,2021.0,3,1
+1212,Dr Nico Hessel Sr,Female,1994,Married,1,138,Staff,Contarct Basis,2020,Active,,3,0
+1215,Ms Lavonne Auer I,Female,1989,Married,1,17,Staff,Contarct Basis,2020,Inactive,2020.0,2,11
+1217,Neha O'Hara,Male,1985,Married,4,104,Management,Contarct Basis,2020,Inactive,2020.0,2,11
+1221,Mrs Alayna Bechtelar,Male,1994,Single,3,140,Staff,Contarct Basis,2020,Resigned,2020.0,3,0
+1222,Heloise Gutkowski,Male,1992,Single,1,8,Staff,Contarct Basis,2020,Resigned,2022.0,2,11
+1223,Maybell Parker,Male,1998,Single,1,93,Staff,Contarct Basis,2020,Resigned,2021.0,2,11
+1280,Bethel Graham,Male,1959,Married,3,30,Labour,Contarct Basis,2020,Inactive,2020.0,2,11
+1288,Iliana Parisian,Male,1979,Married,3,36,Staff,Contarct Basis,2020,Resigned,2020.0,2,10
+1297,Jarrod Keebler,Male,1993,Married,4,31,Labour,Contarct Basis,2020,Inactive,2020.0,2,10
+1298,Althea O'Kon,Male,1977,Married,4,1,Labour,Contarct Basis,2020,Inactive,2020.0,2,11
+1299,Samantha Franecki,Male,1992,Married,3,31,Labour,Contarct Basis,2020,Inactive,2020.0,2,10
+1300,Arely Lang,Male,1991,Single,4,84,Staff,Contarct Basis,2020,Inactive,2020.0,2,10
+1302,Carley Ferry,Male,1992,Single,1,22,Staff,Contarct Basis,2020,Resigned,2021.0,2,10
+1304,Queenie Wolf,Male,1980,Married,1,7,Staff,Contarct Basis,2020,Resigned,2021.0,2,9
+1306,Myles Kris,Female,1999,Single,1,177,Staff,Contarct Basis,2020,Active,,2,7
+1310,Wilhelm Hill DDS,Male,1993,Single,1,33,Staff,Contarct Basis,2020,Resigned,2021.0,2,9
+1323,Prof Merritt Zieme,Male,1975,Married,1,24,Staff,Contarct Basis,2020,Resigned,2020.0,2,10
+1324,Prof Rachael Kuhlman MD,Male,1998,Single,1,70,Staff,Contarct Basis,2020,Inactive,2020.0,2,9
+1325,Nathanial Terry,Male,1982,Married,1,8,Staff,Contarct Basis,2020,Resigned,2021.0,2,9
+1326,Prof Arden Franecki V,Male,1967,Married,1,144,Staff,Contarct Basis,2020,Inactive,2020.0,2,9
+1329,Verlie Hodkiewicz,Male,1987,Married,1,24,Staff,Contarct Basis,2020,Inactive,2020.0,3,0
+1330,Carissa Gerlach,Male,2005,Single,3,146,Staff,Contarct Basis,2020,Resigned,2021.0,2,9
+1332,Dr Elmore Huels MD,Male,1988,Married,1,7,Staff,Contarct Basis,2020,Inactive,2020.0,2,8
+1334,Yazmin Gleason,Male,1994,Single,1,33,Staff,Contarct Basis,2020,Resigned,2021.0,2,8
+1335,Mrs Lelah Lesch,Male,1984,Married,1,48,Staff,Contarct Basis,2020,Resigned,2020.0,2,8
+1336,Avis D'Amore,Male,1997,Single,1,27,Staff,Contarct Basis,2020,Inactive,2020.0,2,8
+1380,Carli Crist,Female,1993,Single,1,147,Staff,Contarct Basis,2020,Resigned,2021.0,2,8
+1381,Lester Mann IV,Male,1983,Married,1,176,Staff,Contarct Basis,2020,Resigned,2022.0,2,8
+1382,Rhea Walker,Male,1990,Single,1,8,Staff,Contarct Basis,2020,Inactive,2020.0,2,8
+1383,Mortimer Towne,Male,1998,Single,1,27,Staff,Contarct Basis,2020,Resigned,2021.0,2,8
+1384,Vern Shanahan,Male,1997,Single,1,27,Staff,Contarct Basis,2020,Inactive,2020.0,2,8
+1385,Luciano Barrows,Male,1996,Single,1,40,Staff,Contarct Basis,2020,Resigned,2021.0,2,8
+1386,Mr Lucio Sauer MD,Male,1985,Married,2,22,Staff,Contarct Basis,2020,Resigned,2022.0,2,7
+1388,Aletha Schaefer I,Male,1968,Married,1,80,Staff,Contarct Basis,2020,Active,,2,7
+1389,Roberta Baumbach,Male,1991,Married,1,43,Staff,Contarct Basis,2020,Inactive,2020.0,2,7
+1390,Tom Gutkowski,Male,1971,Married,1,1,Labour,Contarct Basis,2020,Resigned,2021.0,2,7
+1397,Mateo Braun Sr,Male,2000,Single,1,22,Staff,Contarct Basis,2020,Resigned,2021.0,2,7
+1398,Kelsi Koss III,Male,1995,Single,1,48,Staff,Contarct Basis,2020,Active,,2,7
+1399,Lyda Bauch,Male,1998,Single,1,95,Staff,Contarct Basis,2020,Active,,2,7
+1430,Dr Dylan Powlowski,Male,1999,Single,1,24,Staff,Contarct Basis,2020,Inactive,2021.0,2,7
+1432,Trudie Davis PhD,Female,1993,Single,1,17,Staff,Contarct Basis,2020,Resigned,2021.0,2,7
+1433,Alessia Effertz,Female,1970,Married,1,149,Staff,Contarct Basis,2020,Resigned,2021.0,2,7
+1434,Itzel Langosh,Male,1995,Single,1,27,Staff,Contarct Basis,2020,Resigned,2021.0,2,6
+1435,Donny Hauck,Male,1987,Married,1,8,Staff,Contarct Basis,2020,Resigned,2021.0,2,7
+1436,Ignacio Mohr,Male,1983,Married,2,36,Staff,Contarct Basis,2020,Active,,2,6
+1437,Elvie Reynolds,Female,1976,Married,1,120,Management,Contarct Basis,2020,Resigned,2021.0,2,9
+1439,Houston Pagac,Male,1995,Single,3,33,Staff,Contarct Basis,2020,Resigned,2021.0,2,6
+1440,Ariel Wolff,Male,1993,Single,1,89,Staff,Contarct Basis,2021,Resigned,2021.0,2,6
+1441,Miss Fleta Rowe I,Male,1991,Single,1,22,Staff,Contarct Basis,2021,Resigned,2021.0,2,6
+1443,Dane Jones,Male,1985,Married,1,8,Staff,Contarct Basis,2021,Resigned,2021.0,2,6
+1445,Clarabelle Lemke II,Male,1986,Married,1,17,Staff,Contarct Basis,2021,Resigned,2021.0,2,5
+1446,Mrs Celestine Cartwright IV,Male,1989,Single,3,22,Staff,Contarct Basis,2021,Resigned,2021.0,2,5
+1538,Estel Hahn,Male,1964,Married,1,6,Staff,Contarct Basis,2021,Resigned,2022.0,2,5
+1539,Reagan Marquardt,Male,1994,Single,1,153,Labour,Contarct Basis,2021,Active,,2,5
+1543,Dr Alexie Simonis,Male,1994,Single,1,17,Staff,Contarct Basis,2021,Resigned,2021.0,2,5
+1619,Erin Grimes,Male,1994,Single,3,36,Staff,Contarct Basis,2021,Resigned,2021.0,2,4
+1625,Ava Okuneva,Male,1975,Married,1,66,Management,Contarct Basis,2021,Resigned,2021.0,2,4
+1629,Zola Lind Jr,Male,1990,Married,1,78,Management,Contarct Basis,2021,Resigned,2021.0,2,4
+1630,Dr Sid Rutherford,Male,1996,Single,3,7,Staff,Contarct Basis,2021,Resigned,2022.0,2,4
+1636,Christy Gleichner,Male,1980,Married,1,122,Labour,Contarct Basis,2021,Resigned,2022.0,2,5
+1637,Devin Osinski,Male,1997,Single,1,55,Labour,Contarct Basis,2021,Resigned,2021.0,2,5
+1644,Wyman Bashirian,Male,1952,Married,1,134,Labour,Contarct Basis,2021,Resigned,2022.0,2,4
+1657,Marques Prohaska,Male,1978,Married,1,48,Staff,Contarct Basis,2021,Active,,2,3
+1683,Prof Nona Mante,Male,1987,Single,1,108,Staff,Contarct Basis,2021,Resigned,2022.0,2,3
+1685,Vita Lind MD,Male,1987,Married,1,22,Staff,Contarct Basis,2021,Active,,2,3
+1715,Lamont Leffler,Male,1989,Single,1,104,Management,Contarct Basis,2021,Resigned,2021.0,2,2
+1716,Angeline Turcotte,Male,1995,Single,1,9,Staff,Contarct Basis,2021,Resigned,2021.0,2,2
+1738,Ms Eugenia Yost V,Male,1964,Married,1,1,Labour,Contarct Basis,2021,Resigned,2021.0,2,2
+1739,Lukas Walter,Male,1970,Married,1,162,Management,Contarct Basis,2021,Resigned,2021.0,2,2
+1740,Treva Hoppe,Male,1975,Married,1,163,Management,Contarct Basis,2021,Resigned,2021.0,2,2
+1741,Mrs Mallie Torp IV,Female,1992,Single,1,161,Staff,Contarct Basis,2021,Resigned,2021.0,2,2
+1760,Prof Maxine Becker II,Male,1969,Married,1,27,Staff,Contarct Basis,2021,Resigned,2022.0,2,2
+1761,Murphy O'Hara,Male,1963,Married,1,27,Staff,Contarct Basis,2021,Inactive,2021.0,2,2
+1771,Mr Cesar Powlowski II,Male,1981,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,2
+1772,Nels Schulist,Male,1954,Married,3,30,Labour,Contarct Basis,2021,Resigned,2021.0,2,2
+1773,Fidel Muller,Male,1992,Married,3,30,Labour,Contarct Basis,2021,Resigned,2021.0,2,2
+1784,Carol Mertz MD,Male,1980,Married,1,43,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1800,Prof Bethel Lemke,Male,1993,Married,2,8,Staff,Contarct Basis,2021,Resigned,2022.0,2,1
+1803,Duncan Waters,Male,1987,Married,3,122,Labour,Contarct Basis,2021,Active,,2,5
+1804,Miss Jeanne Schoen,Male,1987,Married,3,122,Labour,Contarct Basis,2021,Active,,2,5
+1814,Dr Ryann Feest PhD,Male,1978,Married,1,122,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1815,Myriam Buckridge,Male,1979,Married,1,122,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1816,Emelie Langworth,Male,1968,Married,1,24,Labour,Contarct Basis,2021,Resigned,2022.0,2,2
+1820,Miss Libbie Reinger,Male,1992,Married,1,122,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1822,Jodie Satterfield,Male,1975,Married,1,55,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1825,Antonetta Wyman,Male,1959,Married,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,2,1
+1827,Dr Serena Trantow,Male,1976,Married,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,2,1
+1833,Ms Delores Towne DDS,Male,1987,Married,1,29,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1834,Adonis Trantow MD,Male,1994,Single,3,33,Staff,Contarct Basis,2021,Resigned,2022.0,2,1
+1844,Jefferey Torp,Male,1983,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1846,Mr Erik Bruen PhD,Male,1958,Married,1,4,Labour,Contarct Basis,2021,Resigned,2021.0,2,1
+1849,Elissa Krajcik,Male,1987,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1850,Donnie Bergstrom,Male,1978,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1852,Marina Reichert III,Male,1977,Married,1,124,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1854,Chesley Morissette,Male,1969,Married,1,124,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1855,Mrs Sally Spencer,Male,1981,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1857,Prof Christop West IV,Male,2003,Single,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1860,Dixie Gleason,Male,2002,Single,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1861,Mrs Emely Oberbrunner DVM,Male,2002,Single,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1862,Prof Viola Swaniawski,Male,1994,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1863,Rollin Okuneva,Male,1958,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1865,Stephania Greenholt,Male,1962,Married,1,31,Labour,Contarct Basis,2021,Active,,2,1
+1867,Vanessa Wuckert,Male,1963,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1873,Gust Pagac,Male,1998,Married,1,30,Labour,Contarct Basis,2021,Resigned,2021.0,2,1
+1874,Hulda Wolf,Male,2001,Single,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1878,Miss Viola Collins DDS,Male,1998,Married,1,55,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1881,Rhett Haley,Male,1971,Married,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,2,1
+1886,Braxton Volkman,Male,1968,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,0
+1890,Clotilde Boyer III,Male,1978,Married,3,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,0
+1892,Lelah Williamson,Male,1962,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1899,Mr Lon Hackett,Male,1965,Married,1,80,Labour,Contarct Basis,2021,Active,,2,1
+1902,Miss Clara Hessel I,Male,1965,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,0
+1903,Ms Nellie Bruen Jr,Male,1961,Married,1,55,Labour,Contarct Basis,2021,Resigned,2022.0,2,0
+1904,Estella Heidenreich Jr,Female,1998,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,0
+1906,Emmitt Kling,Male,1972,Married,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,2,1
+1909,Adan Schimmel,Male,1962,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1916,Miss Etha Hudson Sr,Male,1967,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,0
+1917,Sage Lebsack,Male,1983,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,0
+1918,Alverta Bode,Male,1990,Married,1,90,Staff,Contarct Basis,2021,Resigned,2022.0,2,0
+1920,Cordelia Vandervort IV,Male,1974,Married,1,124,Labour,Contarct Basis,2021,Resigned,2022.0,2,0
+1926,Kayley Bosco,Male,1959,Married,1,31,Labour,Contarct Basis,2021,Active,,2,0
+1931,Micheal Reichel,Male,1994,Single,1,33,Staff,Contarct Basis,2021,Active,,2,0
+1932,Blake Jast,Male,1969,Married,1,124,Labour,Contarct Basis,2021,Resigned,2022.0,2,0
+1935,Dolores Kerluke,Male,2001,Single,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,0
+1936,Golda Bogan,Male,1988,Married,1,24,Labour,Contarct Basis,2021,Resigned,2022.0,2,0
+1938,Garrett Stiedemann,Male,1987,Married,1,124,Labour,Contarct Basis,2021,Resigned,2022.0,2,1
+1941,Miss Melyssa Moore DVM,Male,2001,Single,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,0
+1947,Daphne Harris,Female,1998,Single,1,125,Labour,Contarct Basis,2021,Resigned,2021.0,2,0
+1952,Dahlia Mueller,Male,1993,Married,1,167,Management,Contarct Basis,2021,Resigned,2022.0,2,3
+1954,Shanel Kris DVM,Male,1954,Married,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,2,0
+1955,Yesenia Dickens Jr,Male,1995,Single,1,139,Labour,Contarct Basis,2021,Resigned,2022.0,2,0
+1957,Zella Macejkovic,Female,1998,Single,1,112,Staff,Contarct Basis,2021,Resigned,2022.0,2,0
+1959,Claud Nolan,Male,1991,Married,1,49,Staff,Contarct Basis,2021,Active,,2,0
+1960,Dejah Prosacco,Male,1975,Married,1,24,Staff,Contarct Basis,2021,Resigned,2021.0,2,0
+1961,Terrence Weimann,Male,1994,Single,2,89,Staff,Contarct Basis,2021,Active,,2,0
+1962,Mrs Theresia Stokes DVM,Male,1979,Married,1,7,Staff,Contarct Basis,2021,Resigned,2021.0,2,0
+1964,Jamison Feest,Male,1986,Married,1,6,Staff,Contarct Basis,2021,Active,,2,0
+1965,Samantha Wolff,Male,1974,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,11
+1967,Erling Upton,Male,1969,Married,1,7,Staff,Contarct Basis,2021,Resigned,2021.0,1,11
+1969,Elmira Gleason,Male,1994,Single,1,158,Staff,Contarct Basis,2021,Resigned,2021.0,1,11
+1970,Isac Marvin Jr,Male,1958,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,11
+1975,Mariam Lindgren,Male,1978,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,2,0
+1976,Mr Rodrick Bartell,Male,1996,Single,1,49,Staff,Contarct Basis,2021,Resigned,2021.0,1,11
+1985,Stephania Conn,Male,1994,Single,3,36,Staff,Contarct Basis,2021,Resigned,2021.0,1,11
+1987,Arlie Ruecker Sr,Male,1987,Married,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,1,11
+1988,Dr Nadia Tillman IV,Male,1994,Married,1,43,Labour,Contarct Basis,2021,Resigned,2022.0,1,11
+1993,Mrs Shaniya Swaniawski,Male,1980,Married,2,124,Labour,Contarct Basis,2021,Resigned,2021.0,1,11
+1996,Dianna Quigley,Female,1987,Single,1,125,Labour,Contarct Basis,2021,Resigned,2022.0,1,11
+1998,Alfredo Pfeffer,Female,1987,Single,1,125,Labour,Contarct Basis,2021,Resigned,2022.0,1,11
+2000,Mable Langworth,Male,1987,Married,1,78,Staff,Contarct Basis,2021,Resigned,2021.0,1,11
+2001,Marianne Hessel,Male,1993,Single,1,33,Staff,Contarct Basis,2021,Resigned,2021.0,1,11
+2002,Gerry Kshlerin,Male,1991,Single,1,36,Staff,Contarct Basis,2021,Resigned,2022.0,1,11
+2006,Berta Davis,Male,1969,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,11
+2007,Norene Sipes,Male,1971,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,11
+2009,Jeffry Hansen,Male,1991,Single,1,54,Staff,Contarct Basis,2021,Resigned,2021.0,1,11
+2010,Malinda Ritchie,Male,1995,Single,1,36,Staff,Contarct Basis,2021,Active,,1,11
+2013,Dr Neal Zemlak,Female,1987,Married,1,25,Labour,Contarct Basis,2021,Active,,1,11
+2016,Edison Mills,Male,1997,Single,3,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,11
+2017,Ms Rowena Mayert IV,Male,1967,Married,1,6,Staff,Contarct Basis,2021,Active,,1,11
+2018,Miss Rita Considine PhD,Male,1996,Single,1,22,Staff,Contarct Basis,2021,Resigned,2021.0,1,11
+2019,Uriah Nienow,Male,1990,Married,1,22,Staff,Contarct Basis,2021,Active,,1,11
+2020,Arnulfo Kuphal,Male,1964,Married,2,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,11
+2023,Drake Hamill,Male,1969,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,11
+2024,Miss Savanah Moore Sr,Male,1984,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,11
+2027,Jaquelin Kohler,Female,1996,Single,1,170,Staff,Contarct Basis,2021,Resigned,2022.0,1,11
+2031,Mr Shaun Mante Jr,Male,1985,Married,3,29,Labour,Contarct Basis,2021,Resigned,2021.0,1,11
+2033,Clarissa Goodwin,Male,1996,Married,1,124,Labour,Contarct Basis,2021,Resigned,2022.0,1,11
+2034,Bridgette Halvorson,Male,1990,Married,1,124,Labour,Contarct Basis,2021,Resigned,2022.0,1,11
+2036,Mckenzie Bruen,Male,1982,Married,1,168,Staff,Contarct Basis,2021,Active,,1,10
+2040,Norma Hartmann MD,Male,1995,Single,1,158,Staff,Contarct Basis,2021,Resigned,2022.0,1,10
+2043,Ms Pearlie Hettinger Sr,Male,1993,Single,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,1,10
+2044,Mireille Bergnaum,Male,1963,Married,1,124,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2045,Allene Larson,Male,1968,Married,1,124,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2048,Prof Patrick Kohler,Male,1991,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2049,Prof Lonie O'Hara,Male,1991,Single,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2050,Laverne Hudson,Male,1975,Married,1,124,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2053,Rachelle Kling,Male,1974,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2054,Mrs Stacy Larson,Male,1966,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2057,Estell Bins MD,Male,1978,Married,1,31,Labour,Permanant,2021,Resigned,2022.0,1,10
+2059,Miss Eden Runolfsson,Male,1955,Married,1,124,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2060,Meredith Kuhic PhD,Male,1975,Married,1,124,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2062,Erica Barton,Male,1967,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2063,Prof Freda Eichmann,Male,1994,Married,1,22,Staff,Contarct Basis,2021,Resigned,2022.0,1,10
+2065,Jerrell Witting,Male,1978,Married,1,122,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2068,Prof Dusty Purdy Sr,Male,1997,Single,1,129,Labour,Contarct Basis,2021,Active,,1,10
+2070,Ms Rafaela Johns MD,Female,1988,Married,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,1,10
+2073,Oceane Krajcik I,Male,1955,Married,1,124,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2079,Floyd Brown,Male,1976,Married,1,24,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2080,Prof Alaina Wolf,Male,2003,Single,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2085,Prof Geoffrey Weber IV,Male,1986,Married,1,24,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2086,Libby Rice,Male,1977,Married,1,24,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2088,Eugene Windler,Male,2002,Single,1,56,Labour,Contarct Basis,2021,Active,,1,10
+2089,Prof Carmelo Adams,Male,2002,Single,3,31,Labour,Contarct Basis,2021,Active,,1,10
+2093,Adonis Runolfsdottir,Male,1972,Married,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,1,10
+2094,Noelia Cremin,Male,1989,Single,1,22,Staff,Contarct Basis,2021,Active,,1,10
+2096,Hilma Bartell,Male,1994,Married,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,1,11
+2097,Cortez Bartoletti,Male,2002,Single,3,31,Labour,Contarct Basis,2021,Active,,1,10
+2101,Daron Bahringer,Male,1987,Single,1,124,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2102,Jalyn Maggio,Male,1966,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2105,Treva Powlowski,Male,1987,Single,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2106,Prof Braxton Bode DVM,Male,1985,Single,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2107,Isadore Kirlin,Male,1985,Married,1,78,Staff,Contarct Basis,2021,Resigned,2022.0,1,10
+2110,Etha Wolf,Male,1993,Single,1,83,Staff,Contarct Basis,2021,Resigned,2021.0,1,10
+2111,Prof Clay Buckridge,Male,1994,Single,1,33,Staff,Contarct Basis,2021,Resigned,2021.0,1,10
+2112,Deja Durgan,Male,1986,Single,1,22,Staff,Contarct Basis,2021,Resigned,2021.0,1,10
+2116,Samanta Williamson,Male,1991,Married,1,124,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2119,Meredith Becker,Male,1982,Married,1,6,Staff,Contarct Basis,2021,Resigned,2022.0,1,10
+2120,Dashawn Kassulke,Male,1969,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2121,Mr Demarco Shields,Male,1991,Married,1,43,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2122,Tanner Hegmann,Male,2000,Single,1,124,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2123,Karley Jerde,Male,1997,Single,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2124,Elmore Rutherford,Male,1950,Married,1,33,Staff,Contarct Basis,2021,Resigned,2022.0,1,10
+2126,Duane Tromp III,Male,1987,Married,1,24,Labour,Contarct Basis,2021,Active,,1,10
+2127,Dr Sammie Volkman,Male,1999,Single,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,1,10
+2132,Yoshiko Leannon,Male,1958,Married,1,124,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2133,Mrs Marianna Shields,Male,1973,Married,1,124,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2134,Jewell Hoppe II,Male,1994,Single,2,89,Staff,Contarct Basis,2021,Resigned,2021.0,1,10
+2135,Eula Welch,Male,1993,Single,1,22,Staff,Contarct Basis,2021,Active,,1,10
+2136,Danielle Crona,Male,1995,Single,1,173,Staff,Contarct Basis,2021,Resigned,2022.0,1,10
+2137,Prof Shanel Hilpert III,Male,1977,Single,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2138,Monroe Tremblay DDS,Male,1974,Married,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,1,10
+2140,Hubert Schneider,Male,1968,Married,1,41,Labour,Contarct Basis,2021,Active,,1,10
+2142,Brenda Denesik,Male,1979,Single,1,41,Labour,Contarct Basis,2021,Resigned,2022.0,1,10
+2146,Adolf White,Male,1996,Single,3,31,Labour,Contarct Basis,2021,Active,,1,10
+2147,Avis Oberbrunner,Male,1987,Single,1,1,Labour,Contarct Basis,2021,Resigned,2022.0,1,9
+2148,Prof Eric Lowe,Male,1987,Single,4,1,Labour,Contarct Basis,2021,Resigned,2022.0,1,9
+2150,Prof Coralie Reichel DVM,Male,1987,Single,3,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,9
+2153,Melvina Rowe,Male,1987,Single,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,9
+2158,Talia Bergstrom,Male,1970,Married,1,30,Labour,Contarct Basis,2021,Active,,1,10
+2159,Aracely Wisozk,Male,1994,Married,1,43,Labour,Contarct Basis,2021,Resigned,2021.0,1,10
+2160,Dr Orland Ryan,Male,1995,Single,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,9
+2161,Rene Mitchell,Male,2000,Single,1,7,Staff,Contarct Basis,2021,Resigned,2022.0,1,10
+2162,Maida Barton DVM,Male,1995,Single,1,158,Staff,Contarct Basis,2021,Resigned,2022.0,1,10
+2163,Brigitte Halvorson,Female,1989,Married,1,17,Staff,Contarct Basis,2021,Resigned,2022.0,1,9
+2165,Mrs Tamia Nolan III,Male,1996,Single,1,158,Staff,Contarct Basis,2021,Resigned,2022.0,1,9
+2166,Dallin Macejkovic,Male,1999,Single,1,195,Labour,Contarct Basis,2021,Active,,1,9
+2168,Candace Ankunding PhD,Male,1966,Married,1,129,Labour,Contarct Basis,2021,Active,,1,10
+2193,Prof Oscar Fadel,Male,1981,Married,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,1,9
+2195,Valentin Toy,Male,1970,Married,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,1,9
+2196,Dr Lamont Murphy IV,Male,2001,Single,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,9
+2197,Freeda Rice IV,Male,1998,Single,1,17,Staff,Contarct Basis,2021,Resigned,2021.0,1,9
+2200,Karina Predovic III,Male,1961,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,9
+2204,Gabriella Gleason,Male,1968,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,9
+2207,Dr Katherine Kovacek,Male,1969,Married,1,24,Staff,Contarct Basis,2021,Resigned,2022.0,1,10
+2208,Ransom Grant,Male,1996,Single,1,22,Staff,Contarct Basis,2021,Active,,1,9
+2209,Judd Hartmann,Male,1996,Single,1,22,Staff,Contarct Basis,2021,Active,,1,9
+2210,Mr Franco Friesen Jr,Female,1996,Single,1,178,Staff,Contarct Basis,2021,Active,,1,9
+2211,Carol Weimann,Female,1997,Single,1,178,Staff,Contarct Basis,2021,Resigned,2021.0,1,9
+2214,Kaylie Von,Male,1976,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,9
+2216,Karen Wolf,Male,1993,Single,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,1,9
+2217,Delilah Mueller,Male,1961,Married,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,1,9
+2220,Jay Buckridge,Female,1963,Single,3,45,Management,Contarct Basis,2021,Active,,1,11
+2221,Kendrick Runolfsson,Male,1982,Married,1,124,Labour,Contarct Basis,2021,Resigned,2022.0,1,9
+2225,Gilbert Hermiston II,Male,1987,Married,1,152,Management,Contarct Basis,2021,Resigned,2022.0,1,9
+2228,Emilie Klein,Male,1974,Married,1,55,Labour,Contarct Basis,2021,Resigned,2022.0,1,8
+2229,Sheila Jakubowski,Male,1981,Married,1,33,Staff,Contarct Basis,2021,Resigned,2021.0,1,9
+2230,Dr Adeline Rowe,Male,1974,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,8
+2231,Aimee Dach,Male,1998,Single,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,8
+2233,Lenore Nikolaus,Male,1964,Married,1,24,Staff,Contarct Basis,2021,Resigned,2022.0,1,8
+2236,Craig Balistreri,Male,1983,Married,1,180,Staff,Contarct Basis,2021,Resigned,2021.0,1,8
+2238,Dr Bert Kozey,Male,1995,Single,1,33,Staff,Contarct Basis,2021,Active,,1,8
+2246,Enrico Vandervort,Male,1958,Married,1,139,Labour,Contarct Basis,2021,Resigned,2022.0,1,9
+2247,Alberto Wunsch,Male,1998,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,9
+2250,Emmanuel Koelpin,Male,1972,Married,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,1,8
+2254,Dr Eldora Hayes,Male,1987,Married,1,29,Labour,Contarct Basis,2021,Resigned,2022.0,1,9
+2255,Mr Zachery Romaguera,Male,1983,Single,1,55,Labour,Contarct Basis,2021,Resigned,2022.0,1,9
+2256,Margaret Shanahan,Male,2003,Single,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,1,8
+2257,Justyn Lindgren,Male,2002,Single,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,8
+2258,Anibal Hamill,Male,1981,Married,1,4,Labour,Contarct Basis,2021,Resigned,2021.0,1,8
+2259,Dr Alicia Keebler,Male,1986,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,8
+2260,Osvaldo Runolfsson,Male,1987,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,8
+2262,Sophia Kunde IV,Male,1997,Married,1,55,Labour,Contarct Basis,2021,Resigned,2022.0,1,8
+2263,Ayana Fritsch,Male,1975,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,8
+2264,Emely Lueilwitz,Male,1974,Married,1,55,Labour,Contarct Basis,2021,Resigned,2022.0,1,8
+2265,Dr Freddie Brakus,Male,1964,Married,4,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,8
+2267,Prof Wilfrid Renner,Male,1951,Married,1,31,Labour,Contarct Basis,2021,Active,,1,8
+2268,Loyce Botsford DDS,Male,1996,Single,1,31,Labour,Contarct Basis,2021,Active,,1,8
+2275,Enrique Mayer,Male,1953,Married,1,134,Labour,Contarct Basis,2021,Resigned,2022.0,1,9
+2276,Duncan Schumm,Male,1959,Married,1,30,Labour,Contarct Basis,2021,Resigned,2022.0,1,8
+2277,Prof Germaine Bergnaum DVM,Female,2001,Single,1,70,Staff,Contarct Basis,2021,Resigned,2022.0,1,8
+2278,Angus Hoeger Jr,Male,1996,Married,1,181,Staff,Contarct Basis,2021,Resigned,2022.0,1,8
+2279,Velma Kiehn,Male,1982,Married,3,31,Labour,Contarct Basis,2021,Active,,1,8
+2291,Prof Mia Ebert,Male,1987,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,8
+2296,Ryley Dare,Male,1990,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,8
+2297,Morton Schaden,Male,1969,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,8
+2299,Maida Gulgowski,Male,1960,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,8
+2300,Dr Nathaniel McDermott,Male,1952,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,8
+2301,Annamae Haley,Male,1981,Married,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,1,8
+2302,Delfina Schmitt III,Male,1991,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,8
+2310,Mr Freddy Kuhic PhD,Male,1997,Single,1,139,Labour,Contarct Basis,2021,Resigned,2022.0,1,8
+2314,Keely Gislason,Male,1992,Married,1,24,Staff,Contarct Basis,2021,Resigned,2021.0,1,8
+2320,Kyler Fay,Male,1990,Married,1,1,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2321,Westley Hermann,Male,1992,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2322,Robin O'Connell,Male,2000,Married,1,53,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2324,Alycia Smitham,Male,1996,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2325,Humberto Hodkiewicz,Female,1993,Single,1,48,Staff,Contarct Basis,2021,Active,,1,7
+2327,Theresa Bernier,Male,1973,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2328,Wallace Beier IV,Male,1994,Single,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,1,7
+2329,Rosella Walker,Male,1995,Single,1,83,Staff,Contarct Basis,2021,Resigned,2022.0,1,7
+2330,Domingo Raynor,Male,1962,Married,1,58,Staff,Contarct Basis,2021,Resigned,2022.0,1,7
+2331,Miss Bernice Jerde,Male,1987,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2332,Dr Phyllis Hoppe DDS,Female,1972,Married,1,31,Labour,Contarct Basis,2021,Active,,1,8
+2333,Alize Bartoletti,Male,1982,Married,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,1,7
+2334,Arthur Keebler,Male,1973,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2337,Reuben Ebert,Male,1998,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2339,Prof Archibald Quitzon V,Male,1993,Single,1,8,Staff,Contarct Basis,2021,Active,,1,7
+2341,Leonie Effertz MD,Male,1987,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2342,Omari Hintz,Male,1976,Married,1,124,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2343,Deja Smith,Male,1995,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2346,Prof Warren Bartell,Female,1993,Single,1,17,Staff,Contarct Basis,2021,Resigned,2022.0,1,7
+2348,Lucius Pfannerstill DDS,Male,1996,Married,1,30,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2350,Brandi Daniel Sr,Male,1998,Single,1,31,Labour,Contarct Basis,2021,Resigned,2021.0,1,7
+2360,Cheyanne Mueller,Male,1985,Married,1,30,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2361,Jaunita O'Connell,Male,2001,Single,1,30,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2364,Adella Walsh,Male,2001,Single,1,30,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2368,Lenore Price I,Male,1991,Married,1,182,Labour,Contarct Basis,2021,Active,,1,7
+2369,Ernest Dietrich DVM,Female,1987,Single,3,184,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2370,Jade Kuphal,Male,1987,Single,1,169,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2372,Dr Sally Ritchie I,Male,1987,Single,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2376,Hillary Cronin,Male,1970,Married,1,22,Staff,Contarct Basis,2021,Active,,1,7
+2379,Leone Blick Sr,Male,1989,Single,1,22,Labour,Contarct Basis,2021,Resigned,2022.0,1,6
+2380,Dr Orpha Padberg,Male,2006,Single,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,6
+2381,Ike Williamson,Male,1971,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2382,Lesley Emmerich,Male,2000,Married,1,43,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2383,Mazie Douglas,Male,1982,Married,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2384,Kyler Bins,Male,1964,Married,1,7,Staff,Contarct Basis,2021,Active,,1,6
+2386,Richie Nitzsche I,Male,1993,Married,1,1,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2387,Mrs Jennifer Monahan PhD,Male,1991,Single,1,30,Labour,Contarct Basis,2021,Resigned,2022.0,1,6
+2388,Gudrun Cruickshank,Male,2000,Single,3,30,Labour,Contarct Basis,2021,Resigned,2021.0,1,6
+2389,Mr Ewell Mueller Sr,Male,1999,Single,1,181,Staff,Contarct Basis,2021,Resigned,2022.0,1,6
+2393,Lorenza Deckow,Male,1998,Single,1,27,Staff,Contarct Basis,2021,Active,,1,6
+2394,Rosie Kutch,Male,1966,Married,1,55,Labour,Contarct Basis,2021,Resigned,2022.0,1,6
+2396,Leta Pfannerstill,Male,1989,Single,1,31,Labour,Contarct Basis,2021,Active,,1,6
+2397,Mr Maximus Lakin DDS,Male,1970,Single,1,31,Labour,Contarct Basis,2021,Resigned,2022.0,1,6
+2398,Prof Franz Dicki,Male,1996,Single,1,55,Labour,Contarct Basis,2021,Resigned,2022.0,1,7
+2399,Prof Richmond Dooley III,Male,1996,Single,2,31,Labour,Contarct Basis,2021,Active,,1,6
+2401,Ms Melba Walter,Male,1987,Married,1,31,Labour,Contarct Basis,2021,Active,,1,6
+2404,Sim Abbott III,Male,1965,Married,1,124,Labour,Contarct Basis,2022,Resigned,2022.0,1,6
+2406,Lavon Littel,Male,1979,Married,1,186,Staff,Contarct Basis,2021,Active,,1,7
+2408,Vaughn Mills,Male,1969,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,6
+2410,Mr Madyson Hammes III,Male,1974,Married,1,95,Labour,Contarct Basis,2021,Active,,1,6
+2411,Mr Hiram Homenick III,Male,1996,Single,1,55,Labour,Contarct Basis,2022,Active,,1,6
+2427,Dr Daryl Schaefer,Male,1993,Single,1,33,Staff,Contarct Basis,2022,Active,,1,6
+2428,Dr Mariana Stiedemann DVM,Male,1983,Married,1,187,Staff,Contarct Basis,2022,Active,,1,6
+2430,Tillman Fadel,Male,1996,Single,1,22,Staff,Contarct Basis,2022,Active,,1,6
+2431,Tracy Sporer,Male,1995,Single,1,31,Labour,Contarct Basis,2022,Active,,1,6
+2432,Ms Karianne Tromp,Male,1970,Married,1,122,Labour,Contarct Basis,2022,Active,,1,6
+2433,Kennedi Sipes,Female,1998,Single,1,125,Labour,Contarct Basis,2022,Resigned,2022.0,1,6
+2435,Mr Rollin Koelpin III,Male,1976,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,6
+2437,Cydney Larson,Male,1961,Married,1,55,Labour,Contarct Basis,2022,Active,,1,6
+2441,Ophelia Konopelski III,Male,1991,Married,1,31,Labour,Contarct Basis,2022,Active,,1,6
+2446,Prof Meda Gottlieb Jr,Male,1999,Single,1,70,Staff,Contarct Basis,2022,Resigned,2022.0,1,6
+2447,Mr Julio Ledner II,Male,1988,Married,1,31,Labour,Contarct Basis,2022,Active,,1,6
+2451,Dr Ben Skiles,Male,2001,Single,1,31,Labour,Contarct Basis,2022,Active,,1,6
+2452,Breanne Leuschke,Male,2001,Single,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,6
+2453,Cathrine Rogahn,Male,1999,Single,1,139,Labour,Contarct Basis,2022,Active,,1,6
+2454,Lisandro Heidenreich IV,Male,1990,Married,1,189,Labour,Contarct Basis,2022,Active,,1,6
+2455,Prof Jovan Romaguera,Male,1989,Single,1,189,Labour,Contarct Basis,2022,Active,,1,6
+2457,Florence Reichert,Male,2002,Single,1,56,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2459,Tara Blick V,Male,1971,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2460,Maeve Mertz,Male,1963,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,6
+2461,Prof Shane Heller Jr,Male,1986,Single,1,22,Staff,Contarct Basis,2022,Active,,1,6
+2462,Mrs Meggie Ankunding,Male,1996,Single,1,80,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2466,Prof Kurtis Larkin MD,Male,1962,Married,1,31,Labour,Contarct Basis,2022,Active,,1,5
+2467,Graciela Miller III,Male,2001,Single,1,31,Labour,Contarct Basis,2022,Active,,1,6
+2468,Charity Feil,Male,1994,Single,1,31,Labour,Contarct Basis,2022,Active,,1,5
+2469,Miss Ernestine Olson III,Male,1973,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2470,Osborne Emmerich,Male,1981,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2473,Howard Kihn,Male,1958,Married,1,31,Labour,Contarct Basis,2022,Active,,1,5
+2474,Destinee Kirlin,Male,1975,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2476,Maci Casper,Male,1990,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,6
+2477,Francis Weimann,Male,1985,Married,1,31,Labour,Contarct Basis,2022,Active,,1,5
+2478,Lilly Prohaska PhD,Male,1955,Married,1,122,Labour,Contarct Basis,2022,Active,,1,6
+2480,Amalia Morissette,Male,1994,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2481,Rubye Olson,Male,1990,Married,1,26,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2482,Verdie McKenzie,Male,1999,Single,1,55,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2483,Dr Dean Runolfsson,Male,1970,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2484,Abagail Trantow,Female,1998,Married,1,195,Labour,Contarct Basis,2022,Active,,1,6
+2485,Prince Goodwin,Female,1996,Single,1,195,Labour,Contarct Basis,2022,Active,,1,6
+2486,Miss Clementina Kilback,Male,2001,Single,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2487,Junior Stamm,Male,1964,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2488,Eldridge Conroy,Male,1987,Single,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2489,Prof Sarai Rodriguez,Male,1991,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,6
+2490,Dixie Bechtelar,Male,2001,Single,3,124,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2491,Herbert Legros,Male,1994,Single,3,31,Labour,Contarct Basis,2022,Active,,1,5
+2493,Zula Price IV,Male,1997,Single,1,124,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2495,Oda Flatley Jr,Male,1973,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2496,Carley Kunze,Male,1973,Married,1,123,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2498,Norberto Dach,Male,1981,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2499,Mrs Kayla Steuber DDS,Male,1977,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2500,Nellie Runolfsdottir,Male,2002,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2503,Emmalee Hoeger,Male,1973,Married,1,4,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2504,Agnes Leuschke,Male,1980,Married,1,190,Management,Contarct Basis,2022,Active,,1,5
+2505,Ms Lysanne Welch II,Male,1996,Single,1,158,Staff,Contarct Basis,2022,Active,,1,5
+2506,Gerson Ferry,Male,1968,Married,1,33,Staff,Contarct Basis,2022,Active,,1,5
+2507,Hayden Considine V,Male,2000,Single,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2508,Gracie Roob,Male,1995,Single,1,55,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2509,Clovis Lakin,Male,1995,Single,1,43,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2511,Wilfrid Eichmann IV,Male,1986,Married,1,31,Labour,Contarct Basis,2022,Active,,1,5
+2512,Mr Stanton Towne DDS,Male,2001,Single,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2513,Carleton Nitzsche MD,Male,1960,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2514,Mrs Megane Sanford,Male,1987,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2515,Mozelle Upton,Male,1980,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2516,Anastacio Mosciski,Male,1972,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2517,Kitty Corwin,Male,1997,Single,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2518,Godfrey Haley IV,Male,1976,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2520,Reanna Brekke PhD,Male,1970,Married,1,31,Labour,Contarct Basis,2022,Active,,1,5
+2522,Orland Stiedemann Sr,Male,1987,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2523,Ottilie Purdy,Male,1993,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,4
+2524,Dale Glover,Male,1951,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,4
+2529,Colton Emmerich,Male,1979,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,4
+2530,Jimmy Gutmann Sr,Male,1963,Married,1,29,Labour,Contarct Basis,2022,Resigned,2022.0,1,5
+2531,Marc Spencer,Male,1970,Married,1,163,Management,Contarct Basis,2022,Active,,1,4
+2533,Samantha Kuvalis,Male,1994,Single,1,33,Staff,Contarct Basis,2022,Resigned,2022.0,1,4
+2535,Yasmin Mertz,Male,1980,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,4
+2538,Dexter Nader,Male,1989,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,4
+2540,Tristin Schmitt DVM,Male,1999,Single,1,31,Labour,Contarct Basis,2022,Active,,1,4
+2541,Korey Buckridge I,Male,1968,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,4
+2542,Dr Zoey Mitchell,Male,1956,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,4
+2543,Aaliyah Torp,Male,1966,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,4
+2544,Shea Grimes,Male,1995,Single,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,4
+2545,Randi Beahan IV,Male,2002,Single,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,4
+2546,Ebba Quigley,Male,2002,Single,1,31,Labour,Contarct Basis,2022,Active,,1,4
+2548,Sharon Bednar,Male,2003,Single,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,4
+2550,Ms Roxane Adams Jr,Male,1994,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,4
+2551,Prof Lucio Effertz Jr,Male,1994,Single,1,31,Labour,Contarct Basis,2022,Active,,1,4
+2552,Maurine Schneider,Male,1996,Single,1,56,Labour,Contarct Basis,2022,Active,,1,4
+2553,Prof Nathanial Gerhold,Male,1988,Single,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,4
+2554,Zelda Kohler,Male,1999,Single,1,53,Labour,Contarct Basis,2022,Resigned,2022.0,1,4
+2555,Mr Noel Buckridge PhD,Male,2001,Single,1,69,Staff,Contarct Basis,2022,Active,,1,4
+2557,Dr Alexandro Davis,Male,1980,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,4
+2558,Antonette Wunsch,Male,1982,Married,2,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,4
+2559,Rollin Jacobi DDS,Male,1972,Married,1,55,Labour,Contarct Basis,2022,Resigned,2022.0,1,4
+2560,Scottie Murray Jr,Male,1990,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,4
+2561,Doris Flatley,Male,1972,Married,1,31,Labour,Contarct Basis,2022,Active,,1,4
+2562,Dr Paul Weber V,Female,1983,Married,1,8,Staff,Contarct Basis,2022,Resigned,2022.0,1,4
+2563,Marcelina Boehm,Male,1998,Married,1,31,Labour,Contarct Basis,2022,Active,,1,4
+2564,Ms Pinkie Grady DVM,Male,1986,Single,1,31,Labour,Contarct Basis,2022,Active,,1,4
+2565,Dillon Oberbrunner DDS,Male,1994,Single,1,191,Staff,Contarct Basis,2022,Resigned,2022.0,1,4
+2566,Edythe Altenwerth,Male,1999,Single,1,31,Labour,Contarct Basis,2022,Active,,1,4
+2567,Gisselle Nitzsche,Male,1996,Married,1,31,Labour,Contarct Basis,2022,Active,,1,4
+2568,Mr Peyton Kulas,Female,1998,Single,1,30,Labour,Contarct Basis,2022,Resigned,2022.0,1,4
+2569,Elliot Luettgen,Male,1991,Single,1,22,Staff,Contarct Basis,2022,Active,,1,4
+2570,Albertha O'Conner,Male,1995,Married,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,3
+2572,Miss Oleta Rath,Male,1995,Married,1,192,Staff,Contarct Basis,2022,Active,,1,3
+2573,Delfina Fay DVM,Male,2000,Single,1,7,Staff,Contarct Basis,2022,Active,,1,3
+2574,Davon Rath,Male,1995,Single,1,33,Staff,Contarct Basis,2022,Active,,1,3
+2575,Jewell Sipes,Male,1964,Married,2,6,Staff,Contarct Basis,2022,Resigned,2022.0,1,3
+2576,Mr Easton Balistreri,Male,1975,Married,1,4,Labour,Contarct Basis,2022,Active,,1,3
+2577,Guiseppe Schultz,Male,1990,Married,1,4,Labour,Contarct Basis,2022,Active,,1,3
+2578,Dan Connelly,Male,1974,Married,1,4,Labour,Contarct Basis,2022,Active,,1,3
+2579,Dr Blaise Lebsack,Male,1987,Married,1,4,Labour,Contarct Basis,2022,Active,,1,3
+2580,Lee Beatty,Male,1995,Married,1,4,Labour,Contarct Basis,2022,Active,,1,3
+2581,Aliyah Mohr,Male,1987,Married,1,4,Labour,Contarct Basis,2022,Active,,1,3
+2582,Miss Queenie VonRueden V,Male,1972,Married,1,4,Labour,Contarct Basis,2022,Active,,1,3
+2586,Philip Lowe,Male,1987,Single,1,31,Labour,Contarct Basis,2022,Active,,1,4
+2588,Mr Gavin Dach,Male,2002,Single,1,31,Labour,Contarct Basis,2022,Resigned,2022.0,1,3
+2592,Mr Joan Effertz,Male,1997,Married,2,22,Staff,Contarct Basis,2022,Resigned,2022.0,1,3
+2593,Else Hyatt,Male,1997,Single,1,8,Staff,Contarct Basis,2022,Resigned,2022.0,1,2
+2594,Adrain Welch,Male,1997,Single,3,8,Staff,Contarct Basis,2022,Active,,1,2
+2597,Mr Greg Mayer DDS,Male,1994,Single,1,22,Staff,Contarct Basis,2022,Active,,1,2
+2598,Dean Zemlak,Male,1987,Married,1,4,Labour,Permanant,2022,Active,,1,2
+2599,Talon Hudson,Male,1968,Married,1,124,Labour,Contarct Basis,2022,Active,,1,2
+2600,Prof Trevor Ledner,Male,1986,Married,1,56,Labour,Contarct Basis,2022,Resigned,2022.0,1,2
+2601,Miss Alene Stokes DVM,Male,1987,Married,1,90,Staff,Contarct Basis,2022,Resigned,2022.0,1,2
+2602,Alana Friesen Sr,Male,1965,Married,1,31,Labour,Contarct Basis,2022,Active,,1,2
+2603,Lia Dietrich DVM,Male,1987,Married,1,31,Labour,Contarct Basis,2022,Active,,1,2
+2604,Price Zieme,Male,1989,Married,1,78,Staff,Contarct Basis,2022,Resigned,2022.0,1,2
+2606,Mr Brant Stracke,Male,1991,Married,1,1,Labour,Contarct Basis,2022,Active,,1,2
+2607,Scot Christiansen,Male,1987,Married,1,31,Labour,Contarct Basis,2022,Active,,1,2
+2614,Maeve Mraz,Male,1987,Single,1,31,Labour,Contarct Basis,2022,Active,,1,1
+2615,Marge Kemmer,Male,1987,Single,1,31,Labour,Contarct Basis,2022,Active,,1,1
+2616,Dr Orville Schmidt V,Male,1987,Single,1,31,Labour,Contarct Basis,2022,Active,,1,1
+2617,Maverick Doyle DVM,Male,1987,Single,1,31,Labour,Contarct Basis,2022,Active,,1,1
+2637,Troy Beier,Male,1987,Married,1,24,Labour,Contarct Basis,2022,Active,,1,0
+2642,Mireya Crooks,Male,1965,Married,1,104,Management,Contarct Basis,2022,Resigned,2022.0,1,0
+2643,Prof Stone Kunze,Male,1986,Married,1,54,Labour,Contarct Basis,2022,Active,,0,11
+2701,Ilene Stehr DVM,Female,1996,Single,1,143,Staff,Contarct Basis,2022,Active,,0,10
+2705,Jordon Hickle I,Male,1987,Married,1,31,Labour,Contarct Basis,2022,Active,,0,10
+2709,Arvilla Jenkins,Female,1989,Married,1,33,Staff,Contarct Basis,2022,Active,,0,10
+2715,Mrs Mara Gleason I,Male,1965,Married,1,38,Staff,Contarct Basis,2022,Active,,0,10
+2734,Mortimer Lindgren DDS,Male,1988,Single,1,8,Staff,Contarct Basis,2022,Active,,0,9
+2737,Prof Ismael Prosacco,Male,1984,Married,1,78,Staff,Contarct Basis,2022,Active,,0,9
+2771,Dr Bertram Emard,Male,1981,Married,1,198,Staff,Contarct Basis,2022,Active,,0,9
+2831,Ms Katelin Medhurst,Male,1996,Single,1,111,Staff,Contarct Basis,2022,Active,,0,8
+2836,Janis Borer Jr,Female,1993,Single,1,17,Staff,Contarct Basis,2022,Resigned,2022.0,0,8
+2890,Delphia Haley,Male,1994,Single,1,8,Staff,Contarct Basis,2022,Active,,0,7
+2972,Lance Stanton,Male,1997,Single,1,201,Staff,Contarct Basis,2022,Active,,0,7
+2973,Chauncey Reilly,Male,1990,Single,1,8,Staff,Contarct Basis,2022,Active,,0,7
+3041,Sudath,Male,1979,Married,1,104,Management,Contarct Basis,2022,Active,,0,6
